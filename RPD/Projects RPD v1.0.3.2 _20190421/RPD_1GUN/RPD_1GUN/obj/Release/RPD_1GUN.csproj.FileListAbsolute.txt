@@ -1,0 +1,609 @@
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.exe.config
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\obj\Release\Interop.ACTMULTILib.dll
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csproj.ResolveComReference.cache
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.exe
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.pdb
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\bin\Release\EF.dll
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\bin\Release\LL.dll
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\bin\Release\MFC.dll
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\bin\Release\Microsoft.VisualCSharp.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\bin\Release\PCC One.dll
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\bin\Release\PCC Two.dll
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\bin\Release\TR.dll
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\bin\Release\UL.dll
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\bin\Release\EF.pdb
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\bin\Release\LL.pdb
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\bin\Release\MFC.pdb
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\bin\Release\PCC One.pdb
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\bin\Release\PCC Two.pdb
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\bin\Release\TR.pdb
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\bin\Release\UL.pdb
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\bin\Release\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csprojResolveAssemblyReference.cache
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmAlarm.resources
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmEventLog.resources
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmInterLock.resources
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmLogin.resources
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmManualPage.resources
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmPBTNew.resources
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmPCC.resources
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmRecipeNew.resources
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmSystem.resources
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.LLPage.resources
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.Main.resources
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.Properties.Resources.resources
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csproj.GenerateResource.Cache
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.exe
+E:\RPD\Projects RPD v1.0.0.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.pdb
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.exe.config
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\Interop.ACTMULTILib.dll
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csproj.ResolveComReference.cache
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.exe
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.pdb
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.exe
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.pdb
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\EF.dll
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\LL.dll
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\MFC.dll
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\Microsoft.VisualCSharp.PowerPacks.dll
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\PCC One.dll
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\PCC Two.dll
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\TR.dll
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\UL.dll
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\EF.pdb
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\LL.pdb
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\MFC.pdb
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\PCC One.pdb
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\PCC Two.pdb
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\TR.pdb
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\UL.pdb
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csprojResolveAssemblyReference.cache
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmAlarm.resources
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmEventLog.resources
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmInterLock.resources
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmLeakTestLog.resources
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmLogin.resources
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmManualPage.resources
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmPBTNew.resources
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmPCC.resources
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmRecipeNew.resources
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmRegister.resources
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmSystem.resources
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmTrayMaintain.resources
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.LLPage.resources
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.Main.resources
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.Properties.Resources.resources
+D:\工作\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csproj.GenerateResource.Cache
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.exe.config
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.exe
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.pdb
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\EF.dll
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\LL.dll
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\MFC.dll
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\Microsoft.VisualCSharp.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\PCC One.dll
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\PCC Two.dll
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\TR.dll
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\UL.dll
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\EF.pdb
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\LL.pdb
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\MFC.pdb
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\PCC One.pdb
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\PCC Two.pdb
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\TR.pdb
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\UL.pdb
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\bin\Release\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\Interop.ACTMULTILib.dll
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csproj.ResolveComReference.cache
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmAlarm.resources
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmEventLog.resources
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmInterLock.resources
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmLeakTestLog.resources
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmLogin.resources
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmManualPage.resources
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmPBTNew.resources
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmPCC.resources
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmRecipeNew.resources
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmRegister.resources
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmSystem.resources
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmTrayMaintain.resources
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.LLPage.resources
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.Main.resources
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.Properties.Resources.resources
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csproj.GenerateResource.Cache
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.exe
+E:\RPD\Projects RPD v1.0.0.4\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.pdb
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.exe.config
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.exe
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.pdb
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\bin\Release\EF.dll
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\bin\Release\LL.dll
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\bin\Release\MFC.dll
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\bin\Release\Microsoft.VisualCSharp.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\bin\Release\PCC One.dll
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\bin\Release\PCC Two.dll
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\bin\Release\TR.dll
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\bin\Release\UL.dll
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\bin\Release\EF.pdb
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\bin\Release\LL.pdb
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\bin\Release\MFC.pdb
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\bin\Release\PCC One.pdb
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\bin\Release\PCC Two.pdb
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\bin\Release\TR.pdb
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\bin\Release\UL.pdb
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\bin\Release\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\obj\Release\Interop.ACTMULTILib.dll
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csproj.ResolveComReference.cache
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmAlarm.resources
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmEventLog.resources
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmInterLock.resources
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmLeakTestLog.resources
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmLogin.resources
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmManualPage.resources
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmPBTNew.resources
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmPCC.resources
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmRecipeNew.resources
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmRegister.resources
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmSystem.resources
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmTrayMaintain.resources
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.LLPage.resources
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.Main.resources
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.Properties.Resources.resources
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csproj.GenerateResource.Cache
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.exe
+E:\RPD\Projects RPD v1.0.0.5\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.pdb
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.exe.config
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\Interop.ACTMULTILib.dll
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csproj.ResolveComReference.cache
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.exe
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.pdb
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.exe
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.pdb
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\EF.dll
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\LL.dll
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\MFC.dll
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\Microsoft.VisualCSharp.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\PCC One.dll
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\PCC Two.dll
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\TR.dll
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\UL.dll
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\EF.pdb
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\LL.pdb
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\MFC.pdb
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\PCC One.pdb
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\PCC Two.pdb
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\TR.pdb
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\UL.pdb
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmAlarm.resources
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmEventLog.resources
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmInterLock.resources
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmLeakTestLog.resources
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmLogin.resources
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmManualPage.resources
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmPBTNew.resources
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmPCC.resources
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmRecipeNew.resources
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmRegister.resources
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmSystem.resources
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmTrayMaintain.resources
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.LLPage.resources
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.Main.resources
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.Properties.Resources.resources
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csproj.GenerateResource.Cache
+E:\RPD\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csprojResolveAssemblyReference.cache
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.exe.config
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\Interop.ACTMULTILib.dll
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csproj.ResolveComReference.cache
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.exe
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.pdb
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.exe
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.pdb
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\EF.dll
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\LL.dll
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\MFC.dll
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\Microsoft.VisualCSharp.PowerPacks.dll
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\PCC One.dll
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\PCC Two.dll
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\TR.dll
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\UL.dll
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\EF.pdb
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\LL.pdb
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\MFC.pdb
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\PCC One.pdb
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\PCC Two.pdb
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\TR.pdb
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\UL.pdb
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\bin\Release\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csprojResolveAssemblyReference.cache
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmAlarm.resources
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmEventLog.resources
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmInterLock.resources
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmLeakTestLog.resources
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmLogin.resources
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmManualPage.resources
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmPBTNew.resources
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmPCC.resources
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmRecipeNew.resources
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmRegister.resources
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmSystem.resources
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmTrayMaintain.resources
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.LLPage.resources
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.Main.resources
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.Properties.Resources.resources
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.6\Projects RPD v1.0.0.6\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csproj.GenerateResource.Cache
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.exe.config
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\Interop.ACTMULTILib.dll
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csproj.ResolveComReference.cache
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.exe
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.pdb
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.exe
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.pdb
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\EF.dll
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\LL.dll
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\MFC.dll
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\Microsoft.VisualCSharp.PowerPacks.dll
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\PCC One.dll
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\PCC Two.dll
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\TR.dll
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\UL.dll
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\EF.pdb
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\LL.pdb
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\MFC.pdb
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\PCC One.pdb
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\PCC Two.pdb
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\TR.pdb
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\UL.pdb
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csprojResolveAssemblyReference.cache
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmAlarm.resources
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmEventLog.resources
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmInterLock.resources
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmLeakTestLog.resources
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmLogin.resources
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmManualPage.resources
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmPBTNew.resources
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmPCC.resources
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmRecipeNew.resources
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmRegister.resources
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmSystem.resources
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmTrayMaintain.resources
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.LLPage.resources
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.Main.resources
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.Properties.Resources.resources
+C:\Users\Ar\Desktop\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csproj.GenerateResource.Cache
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.exe.config
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\Interop.ACTMULTILib.dll
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csproj.ResolveComReference.cache
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.exe
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.pdb
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.exe
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.pdb
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\EF.dll
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\LL.dll
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\MFC.dll
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\Microsoft.VisualCSharp.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\PCC One.dll
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\PCC Two.dll
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\TR.dll
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\UL.dll
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\EF.pdb
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\LL.pdb
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\MFC.pdb
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\PCC One.pdb
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\PCC Two.pdb
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\TR.pdb
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\UL.pdb
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\bin\Release\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmAlarm.resources
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmEventLog.resources
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmInterLock.resources
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmLeakTestLog.resources
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmLogin.resources
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmManualPage.resources
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmPBTNew.resources
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmPCC.resources
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmRecipeNew.resources
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmRegister.resources
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmSystem.resources
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmTrayMaintain.resources
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.Main.resources
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.Properties.Resources.resources
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csproj.GenerateResource.Cache
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csprojResolveAssemblyReference.cache
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.exe.config
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.exe
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.pdb
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\EF.dll
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\LL.dll
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\MFC.dll
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\Microsoft.VisualCSharp.PowerPacks.dll
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\PCC One.dll
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\PCC Two.dll
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\TR.dll
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\UL.dll
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\EF.pdb
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\LL.pdb
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\MFC.pdb
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\PCC One.pdb
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\PCC Two.pdb
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\TR.pdb
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\UL.pdb
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\Interop.ACTMULTILib.dll
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csproj.ResolveComReference.cache
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmAlarm.resources
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmEventLog.resources
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmInterLock.resources
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmLeakTestLog.resources
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmLogin.resources
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmManualPage.resources
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmPBTNew.resources
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmPCC.resources
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmRecipeNew.resources
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmRegister.resources
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmSystem.resources
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmTrayMaintain.resources
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.Main.resources
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.Properties.Resources.resources
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csproj.GenerateResource.Cache
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.exe
+F:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.pdb
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.exe.config
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.exe
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.pdb
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\EF.dll
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\LL.dll
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\MFC.dll
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\Microsoft.VisualCSharp.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\PCC One.dll
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\PCC Two.dll
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\TR.dll
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\UL.dll
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\EF.pdb
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\LL.pdb
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\MFC.pdb
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\PCC One.pdb
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\PCC Two.pdb
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\TR.pdb
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\UL.pdb
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\bin\Release\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\Interop.ACTMULTILib.dll
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csproj.ResolveComReference.cache
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmAlarm.resources
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmEventLog.resources
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmInterLock.resources
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmLeakTestLog.resources
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmLogin.resources
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmManualPage.resources
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmPBTNew.resources
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmPCC.resources
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmRecipeNew.resources
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmRegister.resources
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmSystem.resources
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmTrayMaintain.resources
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.Main.resources
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.Properties.Resources.resources
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csproj.GenerateResource.Cache
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.exe
+E:\RPD\Projects RPD v1.0.0.8\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.pdb
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.exe.config
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.exe
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.pdb
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\EF.dll
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\LL.dll
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\MFC.dll
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\Microsoft.VisualCSharp.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\PCC One.dll
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\PCC Two.dll
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\TR.dll
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\UL.dll
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\EF.pdb
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\LL.pdb
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\MFC.pdb
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\PCC One.pdb
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\PCC Two.pdb
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\TR.pdb
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\UL.pdb
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csprojResolveAssemblyReference.cache
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\Interop.ACTMULTILib.dll
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csproj.ResolveComReference.cache
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmAlarm.resources
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmArchersTest.resources
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmAutomationLog.resources
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmEventLog.resources
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmInterLock.resources
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmLeakTestLog.resources
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmLogin.resources
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmManualPage.resources
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmPBTNew.resources
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmPCC.resources
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmRecipeNew.resources
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmRegister.resources
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmSystem.resources
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmTrayMaintain.resources
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.Main.resources
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.Properties.Resources.resources
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csproj.GenerateResource.Cache
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.exe
+E:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.pdb
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.exe.config
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.exe
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.pdb
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\EF.dll
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\LL.dll
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\MFC.dll
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\Microsoft.VisualCSharp.PowerPacks.dll
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\PCC One.dll
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\PCC Two.dll
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\TR.dll
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\UL.dll
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\EF.pdb
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\LL.pdb
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\MFC.pdb
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\PCC One.pdb
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\PCC Two.pdb
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\TR.pdb
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\UL.pdb
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\bin\Release\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csprojResolveAssemblyReference.cache
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\Interop.ACTMULTILib.dll
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csproj.ResolveComReference.cache
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmAlarm.resources
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmArchersTest.resources
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmAutomationLog.resources
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmEventLog.resources
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmInterLock.resources
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmLeakTestLog.resources
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmLogin.resources
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmManualPage.resources
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmPBTNew.resources
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmPCC.resources
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmRecipeNew.resources
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmRegister.resources
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmSystem.resources
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmTrayMaintain.resources
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.Main.resources
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.Properties.Resources.resources
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csproj.GenerateResource.Cache
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.exe
+F:\RPD\Projects RPD v1.0.0.9\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.pdb
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.exe.config
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\obj\Release\Interop.ACTMULTILib.dll
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csproj.ResolveComReference.cache
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.exe
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.pdb
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.exe
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.pdb
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\bin\Release\EF.dll
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\bin\Release\LL.dll
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\bin\Release\MFC.dll
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\bin\Release\Microsoft.VisualCSharp.PowerPacks.dll
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\bin\Release\PCC One.dll
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\bin\Release\PCC Two.dll
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\bin\Release\TR.dll
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\bin\Release\UL.dll
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\bin\Release\EF.pdb
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\bin\Release\LL.pdb
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\bin\Release\MFC.pdb
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\bin\Release\PCC One.pdb
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\bin\Release\PCC Two.pdb
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\bin\Release\TR.pdb
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\bin\Release\UL.pdb
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\bin\Release\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmAlarm.resources
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmArchersTest.resources
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmAutomationLog.resources
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmEventLog.resources
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmInterLock.resources
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmLeakTestLog.resources
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmLogin.resources
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmManualPage.resources
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmPBTNew.resources
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmPCC.resources
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmRecipeNew.resources
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmRegister.resources
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmSystem.resources
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmTrayMaintain.resources
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.Main.resources
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.Properties.Resources.resources
+F:\RPD\Projects RPD v1.0.1.0\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csproj.GenerateResource.Cache
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.exe.config
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\obj\Release\Interop.ACTMULTILib.dll
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csproj.ResolveComReference.cache
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.exe
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.pdb
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.exe
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.pdb
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\bin\Release\EF.dll
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\bin\Release\LL.dll
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\bin\Release\MFC.dll
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\bin\Release\Microsoft.VisualCSharp.PowerPacks.dll
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\bin\Release\PCC One.dll
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\bin\Release\PCC Two.dll
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\bin\Release\TR.dll
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\bin\Release\UL.dll
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\bin\Release\EF.pdb
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\bin\Release\LL.pdb
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\bin\Release\MFC.pdb
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\bin\Release\PCC One.pdb
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\bin\Release\PCC Two.pdb
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\bin\Release\TR.pdb
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\bin\Release\UL.pdb
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\bin\Release\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csprojResolveAssemblyReference.cache
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmAlarm.resources
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmArchersTest.resources
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmAutomationLog.resources
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmEventLog.resources
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmInterLock.resources
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmLeakTestLog.resources
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmLogin.resources
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmManualPage.resources
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmPBTNew.resources
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmPCC.resources
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmRecipeNew.resources
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmRegister.resources
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmSystem.resources
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmTrayMaintain.resources
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.Main.resources
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.Properties.Resources.resources
+F:\RPD\Projects RPD v1.0.1.1\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csproj.GenerateResource.Cache
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.exe.config
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\Release\Interop.ACTMULTILib.dll
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csproj.ResolveComReference.cache
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.exe
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.pdb
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.exe
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\Release\RPD_1GUN.pdb
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\Release\EF.dll
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\Release\LL.dll
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\Release\MFC.dll
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\Release\Microsoft.VisualCSharp.PowerPacks.dll
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\Release\PCC One.dll
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\Release\PCC Two.dll
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\Release\TR.dll
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\Release\UL.dll
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\Release\EF.pdb
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\Release\LL.pdb
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\Release\MFC.pdb
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\Release\PCC One.pdb
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\Release\PCC Two.pdb
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\Release\TR.pdb
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\Release\UL.pdb
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\Release\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csprojResolveAssemblyReference.cache
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmAlarm.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmArchersTest.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmAutomationLog.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmEventLog.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmInterLock.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmLeakTestLog.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmLogin.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmManualPage.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmPBTNew.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmPCC.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmRecipeNew.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmRegister.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmSystem.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.frmTrayMaintain.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.Main.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.Properties.Resources.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\Release\RPD_1GUN.csproj.GenerateResource.Cache

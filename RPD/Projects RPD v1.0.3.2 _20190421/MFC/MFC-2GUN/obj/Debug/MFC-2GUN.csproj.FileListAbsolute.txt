@@ -1,0 +1,17 @@
+D:\Projects\MFC\MFC-2GUN\bin\Debug\MFC-2GUN.exe.config
+D:\Projects\MFC\MFC-2GUN\bin\Debug\MFC-2GUN.exe
+D:\Projects\MFC\MFC-2GUN\bin\Debug\MFC-2GUN.pdb
+D:\Projects\MFC\MFC-2GUN\obj\Debug\MFC.MFC_2GUN.Form1.resources
+D:\Projects\MFC\MFC-2GUN\obj\Debug\MFC_2GUN.Properties.Resources.resources
+D:\Projects\MFC\MFC-2GUN\obj\Debug\MFC-2GUN.csproj.GenerateResource.Cache
+D:\Projects\MFC\MFC-2GUN\obj\Debug\MFC-2GUN.exe
+D:\Projects\MFC\MFC-2GUN\obj\Debug\MFC-2GUN.pdb
+D:\Projects\MFC\MFC-2GUN\obj\Debug\MFC-2GUN.csprojResolveAssemblyReference.cache
+F:\RPD\Projects RPD v1.0.0.9\MFC\MFC-2GUN\bin\Debug\MFC-2GUN.exe.config
+F:\RPD\Projects RPD v1.0.0.9\MFC\MFC-2GUN\bin\Debug\MFC-2GUN.exe
+F:\RPD\Projects RPD v1.0.0.9\MFC\MFC-2GUN\bin\Debug\MFC-2GUN.pdb
+F:\RPD\Projects RPD v1.0.0.9\MFC\MFC-2GUN\obj\Debug\MFC.MFC_2GUN.Form1.resources
+F:\RPD\Projects RPD v1.0.0.9\MFC\MFC-2GUN\obj\Debug\MFC_2GUN.Properties.Resources.resources
+F:\RPD\Projects RPD v1.0.0.9\MFC\MFC-2GUN\obj\Debug\MFC-2GUN.csproj.GenerateResource.Cache
+F:\RPD\Projects RPD v1.0.0.9\MFC\MFC-2GUN\obj\Debug\MFC-2GUN.exe
+F:\RPD\Projects RPD v1.0.0.9\MFC\MFC-2GUN\obj\Debug\MFC-2GUN.pdb

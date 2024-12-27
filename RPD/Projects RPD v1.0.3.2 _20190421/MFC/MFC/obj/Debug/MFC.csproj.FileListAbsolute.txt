@@ -1,0 +1,17 @@
+D:\Projects\MFC\MFC\obj\Debug\MFC.MFC.resources
+D:\Projects\MFC\MFC\obj\Debug\MFC.csproj.GenerateResource.Cache
+D:\Projects\MFC\MFC\bin\Debug\MFC.dll
+D:\Projects\MFC\MFC\bin\Debug\MFC.pdb
+D:\Projects\MFC\MFC\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Projects\MFC\MFC\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\Projects\MFC\MFC\obj\Debug\MFC.dll
+D:\Projects\MFC\MFC\obj\Debug\MFC.pdb
+D:\Projects\MFC\MFC\obj\Debug\MFC.csprojResolveAssemblyReference.cache
+F:\RPD\Projects RPD v1.0.0.9\MFC\MFC\bin\Debug\MFC.dll
+F:\RPD\Projects RPD v1.0.0.9\MFC\MFC\bin\Debug\MFC.pdb
+F:\RPD\Projects RPD v1.0.0.9\MFC\MFC\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+F:\RPD\Projects RPD v1.0.0.9\MFC\MFC\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+F:\RPD\Projects RPD v1.0.0.9\MFC\MFC\obj\Debug\MFC.MFC.resources
+F:\RPD\Projects RPD v1.0.0.9\MFC\MFC\obj\Debug\MFC.csproj.GenerateResource.Cache
+F:\RPD\Projects RPD v1.0.0.9\MFC\MFC\obj\Debug\MFC.dll
+F:\RPD\Projects RPD v1.0.0.9\MFC\MFC\obj\Debug\MFC.pdb

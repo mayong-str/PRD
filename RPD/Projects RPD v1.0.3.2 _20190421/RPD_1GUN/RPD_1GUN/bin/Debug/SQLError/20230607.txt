@@ -1,0 +1,195 @@
+INSERT INTO PROCESSDATA_LOG([STR_DT]
+                                                                          ,[RGunArSet]
+                                                                          ,[ChamberO2Set]
+                                                                          ,[ChamberArSet]
+                                                                          ,[RGunArFlow]
+                                                                          ,[ChamberO2Flow]
+                                                                          ,[ChamberArFlow]
+                                                                          ,[TRGaugeValueC]
+                                                                          ,[RGunCurrentofHearthCoil]
+                                                                          ,[RGunCurrentofSteeringCoil]
+                                                                          ,[RGunCurrentofG2Coil]
+                                                                          ,[RGunVoltageofMainHearth]
+                                                                          ,[RGunVoltageofBeamGuide]
+                                                                          ,[RGunDischargeVoltage]
+                                                                          ,[RGunCurrentofMainHearth]
+                                                                          ,[RGunCurrentofBeamGuide]
+                                                                          ,[RGunMHPushUpLevel]
+                                                                          ,[RECIPE_NUMBER]
+                                                                          
+                                                                          ,[TRGaugeValuePH]
+                                                                          ,[TRAY_ID]) 
+                                                                           VALUES('2023-06-07 11:44:04'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,''
+                                                                                 ,'0'
+                                                                                 , '')
+2023/06/07 12:19:05
+System.Data.SqlClient.SqlException (0x80131904): 已成功与服务器建立连接，但是在登录过程中发生错误。 (provider: SSL Provider, error: 0 - 远程主机强迫关闭了一个现有的连接。) ---> System.ComponentModel.Win32Exception (0x80004005): 远程主机强迫关闭了一个现有的连接。
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 RPD_1GUN.clsDBN.ExecuteSqlCommand(String SqlCommand) 位置 D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\clsDBN.cs:行号 67
+ClientConnectionId:16b2c3d0-996e-4ae3-9ed2-1bddc5c32ba4
+Error Number:10054,State:0,Class:20
+SELECT * FROM ALARM_DEF
+2023/06/07 15:01:05
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接) ---> System.ComponentModel.Win32Exception (0x80004005): 用户名或密码不正确。
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 RPD_1GUN.clsDBN.GetTable(String SqlCommand) 位置 D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\clsDBN.cs:行号 374
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:1326,State:0,Class:20
+SELECT * FROM WARNING_DEF
+2023/06/07 15:11:40
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接) ---> System.ComponentModel.Win32Exception (0x80004005): 用户名或密码不正确。
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 RPD_1GUN.clsDBN.GetTable(String SqlCommand) 位置 D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\clsDBN.cs:行号 374
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:1326,State:0,Class:20
+UPDATE PBT SET [LLDelayTime] = @LLDelayTime
+                                   ,[LLArSet1] = @LLArSet1
+                                   ,[LLArSet2] = @LLArSet2
+                                   ,[LLArSet3] = @LLArSet3
+                                   ,[LLO2Set1] = @LLO2Set1
+                                   ,[LLO2Set2] = @LLO2Set2
+                                   ,[LLO2Set3] = @LLO2Set3
+                                   ,[LLXSet1] = @LLXSet1
+                                   ,[LLXSet2] = @LLXSet2
+                                   ,[LLXSet3] = @LLXSet3
+                                   ,[TRDelayTime] = @TRDelayTime
+                                   ,[TRArSet1] = @TRArSet1
+                                   ,[TRArSet2] = @TRArSet2
+                                   ,[TRArSet3] = @TRArSet3
+                                   ,[TRArSet4] = @TRArSet4
+                                   ,[TRArSet5] = @TRArSet5
+                                   ,[TRArSet6] = @TRArSet6
+                                   ,[TRArSet7] = @TRArSet7
+                                   ,[TRAr2Set1] = @TRAr2Set1
+                                   ,[TRAr2Set2] = @TRAr2Set2
+                                   ,[TRAr2Set3] = @TRAr2Set3
+                                   ,[TRAr2Set4] = @TRAr2Set4
+                                   ,[TRAr2Set5] = @TRAr2Set5
+                                   ,[TRAr2Set6] = @TRAr2Set6
+                                   ,[TRAr2Set7] = @TRAr2Set7
+                                   ,[TRO2Set1] = @TRO2Set1
+                                   ,[TRO2Set2] = @TRO2Set2
+                                   ,[TRO2Set3] = @TRO2Set3
+                                   ,[TRO2Set4] = @TRO2Set4
+                                   ,[TRO2Set5] = @TRO2Set5
+                                   ,[TRO2Set6] = @TRO2Set6
+                                   ,[TRO2Set7] = @TRO2Set7
+                                   ,[ULArSet1] = @ULArSet1
+                                   ,[ULArSet2] = @ULArSet2
+                                   ,[ULArSet3] = @ULArSet3
+                                   ,[ULO2Set1] = @ULO2Set1
+                                   ,[ULO2Set2] = @ULO2Set2
+                                   ,[ULO2Set3] = @ULO2Set3
+                                   ,[ULXSet1] = @ULXSet1
+                                   ,[ULXSet2] = @ULXSet2
+                                   ,[ULXSet3] = @ULXSet3
+                                   ,[LastModifyTime] = @LastModifyTime
+                                    WHERE Name = '0.2Pa'
+2023/06/07 15:59:05
+System.Data.SqlClient.SqlException (0x80131904): 必须声明标量变量 "@LLDelayTime"。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 RPD_1GUN.clsDBN.ExecuteSqlCommand(String SqlCommand) 位置 D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\clsDBN.cs:行号 78
+ClientConnectionId:2e7c5661-15c2-4285-866c-0af505586282
+Error Number:137,State:2,Class:15
+INSERT INTO PROCESSDATA_LOG([STR_DT]
+                                                                          ,[RGunArSet]
+                                                                          ,[ChamberO2Set]
+                                                                          ,[ChamberArSet]
+                                                                          ,[RGunArFlow]
+                                                                          ,[ChamberO2Flow]
+                                                                          ,[ChamberArFlow]
+                                                                          ,[TRGaugeValueC]
+                                                                          ,[RGunCurrentofHearthCoil]
+                                                                          ,[RGunCurrentofSteeringCoil]
+                                                                          ,[RGunCurrentofG2Coil]
+                                                                          ,[RGunVoltageofMainHearth]
+                                                                          ,[RGunVoltageofBeamGuide]
+                                                                          ,[RGunDischargeVoltage]
+                                                                          ,[RGunCurrentofMainHearth]
+                                                                          ,[RGunCurrentofBeamGuide]
+                                                                          ,[RGunMHPushUpLevel]
+                                                                          ,[RECIPE_NUMBER]
+                                                                          
+                                                                          ,[TRGaugeValuePH]
+                                                                          ,[TRAY_ID]) 
+                                                                           VALUES('2023-06-07 16:00:06'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,''
+                                                                                 ,'0'
+                                                                                 , '')
+2023/06/07 16:00:31
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接) ---> System.ComponentModel.Win32Exception (0x80004005): 用户名或密码不正确。
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 RPD_1GUN.clsDBN.ExecuteSqlCommand(String SqlCommand) 位置 D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\clsDBN.cs:行号 67
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:1326,State:0,Class:20

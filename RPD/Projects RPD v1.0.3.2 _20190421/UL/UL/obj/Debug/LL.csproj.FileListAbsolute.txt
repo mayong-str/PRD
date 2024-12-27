@@ -1,0 +1,8 @@
+D:\Projects\LL\LL\bin\Debug\LL.dll
+D:\Projects\LL\LL\bin\Debug\LL.pdb
+D:\Projects\LL\LL\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Projects\LL\LL\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\Projects\LL\LL\obj\Debug\LL.LL.resources
+D:\Projects\LL\LL\obj\Debug\LL.csproj.GenerateResource.Cache
+D:\Projects\LL\LL\obj\Debug\LL.dll
+D:\Projects\LL\LL\obj\Debug\LL.pdb

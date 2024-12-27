@@ -1,0 +1,112 @@
+D:\Projects\PCC\PCC\bin\Debug\PCC.dll
+D:\Projects\PCC\PCC\bin\Debug\PCC.pdb
+D:\Projects\PCC\PCC\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Projects\PCC\PCC\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\Projects\PCC\PCC\obj\Debug\TR.csprojResolveAssemblyReference.cache
+D:\Projects\PCC\PCC\obj\Debug\PCC.TR.resources
+D:\Projects\PCC\PCC\obj\Debug\TR.csproj.GenerateResource.Cache
+D:\Projects\PCC\PCC\obj\Debug\PCC.dll
+D:\Projects\PCC\PCC\obj\Debug\PCC.pdb
+D:\Projects\TR\TR\obj\Debug\TR.csproj.GenerateResource.Cache
+D:\Projects\TR\TR\obj\Debug\TR.TR.resources
+D:\Projects\TR\TR\bin\Debug\TR.dll
+D:\Projects\TR\TR\bin\Debug\TR.pdb
+D:\Projects\TR\TR\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Projects\TR\TR\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\Projects\TR\TR\obj\Debug\TR.dll
+D:\Projects\TR\TR\obj\Debug\TR.pdb
+D:\Projects\TR\TR\bin\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+D:\Projects\TR\TR\obj\Debug\TR.csprojResolveAssemblyReference.cache
+C:\Users\Ar\Desktop\Projects RPD -test\TR\TR\bin\Debug\TR.dll
+C:\Users\Ar\Desktop\Projects RPD -test\TR\TR\bin\Debug\TR.pdb
+C:\Users\Ar\Desktop\Projects RPD -test\TR\TR\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ar\Desktop\Projects RPD -test\TR\TR\bin\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+C:\Users\Ar\Desktop\Projects RPD -test\TR\TR\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\Ar\Desktop\Projects RPD -test\TR\TR\obj\Debug\TR.TR.resources
+C:\Users\Ar\Desktop\Projects RPD -test\TR\TR\obj\Debug\TR.csproj.GenerateResource.Cache
+C:\Users\Ar\Desktop\Projects RPD -test\TR\TR\obj\Debug\TR.dll
+C:\Users\Ar\Desktop\Projects RPD -test\TR\TR\obj\Debug\TR.pdb
+C:\Users\Ar\Desktop\Projects RPD -test\TR\TR\obj\Debug\TR.csprojResolveAssemblyReference.cache
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\TR\TR\bin\Debug\TR.dll
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\TR\TR\bin\Debug\TR.pdb
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\TR\TR\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\TR\TR\bin\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\TR\TR\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\TR\TR\obj\Debug\TR.csprojResolveAssemblyReference.cache
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\TR\TR\obj\Debug\TR.TR.resources
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\TR\TR\obj\Debug\TR.csproj.GenerateResource.Cache
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\TR\TR\obj\Debug\TR.dll
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\TR\TR\obj\Debug\TR.pdb
+D:\工作\RPD\Projects RPD v1.0.0.1\TR\TR\bin\Debug\TR.dll
+D:\工作\RPD\Projects RPD v1.0.0.1\TR\TR\bin\Debug\TR.pdb
+D:\工作\RPD\Projects RPD v1.0.0.1\TR\TR\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\工作\RPD\Projects RPD v1.0.0.1\TR\TR\bin\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+D:\工作\RPD\Projects RPD v1.0.0.1\TR\TR\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\工作\RPD\Projects RPD v1.0.0.1\TR\TR\obj\Debug\TR.TR.resources
+D:\工作\RPD\Projects RPD v1.0.0.1\TR\TR\obj\Debug\TR.csproj.GenerateResource.Cache
+D:\工作\RPD\Projects RPD v1.0.0.1\TR\TR\obj\Debug\TR.dll
+D:\工作\RPD\Projects RPD v1.0.0.1\TR\TR\obj\Debug\TR.pdb
+D:\工作\RPD\Projects RPD v1.0.0.1\TR\TR\obj\Debug\TR.csprojResolveAssemblyReference.cache
+E:\RPD\Projects RPD v1.0.0.2\TR\TR\bin\Debug\TR.dll
+E:\RPD\Projects RPD v1.0.0.2\TR\TR\bin\Debug\TR.pdb
+E:\RPD\Projects RPD v1.0.0.2\TR\TR\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.2\TR\TR\bin\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.2\TR\TR\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+E:\RPD\Projects RPD v1.0.0.2\TR\TR\obj\Debug\TR.csprojResolveAssemblyReference.cache
+E:\RPD\Projects RPD v1.0.0.2\TR\TR\obj\Debug\TR.TR.resources
+E:\RPD\Projects RPD v1.0.0.2\TR\TR\obj\Debug\TR.csproj.GenerateResource.Cache
+E:\RPD\Projects RPD v1.0.0.2\TR\TR\obj\Debug\TR.dll
+E:\RPD\Projects RPD v1.0.0.2\TR\TR\obj\Debug\TR.pdb
+E:\RPD\Projects RPD v1.0.0.3\TR\TR\bin\Debug\TR.dll
+E:\RPD\Projects RPD v1.0.0.3\TR\TR\bin\Debug\TR.pdb
+E:\RPD\Projects RPD v1.0.0.3\TR\TR\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.3\TR\TR\bin\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.3\TR\TR\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+E:\RPD\Projects RPD v1.0.0.3\TR\TR\obj\Debug\TR.csprojResolveAssemblyReference.cache
+E:\RPD\Projects RPD v1.0.0.3\TR\TR\obj\Debug\TR.TR.resources
+E:\RPD\Projects RPD v1.0.0.3\TR\TR\obj\Debug\TR.csproj.GenerateResource.Cache
+E:\RPD\Projects RPD v1.0.0.3\TR\TR\obj\Debug\TR.dll
+E:\RPD\Projects RPD v1.0.0.3\TR\TR\obj\Debug\TR.pdb
+E:\RPD\Projects RPD v1.0.0.3\TR\TR\obj\Debug\TR.Properties.Resources.resources
+E:\RPD\Projects RPD v1.0.0.4\TR\TR\obj\Debug\TR.Properties.Resources.resources
+E:\RPD\Projects RPD v1.0.0.4\TR\TR\obj\Debug\TR.TR.resources
+E:\RPD\Projects RPD v1.0.0.4\TR\TR\obj\Debug\TR.csproj.GenerateResource.Cache
+E:\RPD\Projects RPD v1.0.0.4\TR\TR\bin\Debug\TR.dll
+E:\RPD\Projects RPD v1.0.0.4\TR\TR\bin\Debug\TR.pdb
+E:\RPD\Projects RPD v1.0.0.4\TR\TR\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.4\TR\TR\bin\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.4\TR\TR\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+E:\RPD\Projects RPD v1.0.0.4\TR\TR\obj\Debug\TR.csprojResolveAssemblyReference.cache
+E:\RPD\Projects RPD v1.0.0.4\TR\TR\obj\Debug\TR.dll
+E:\RPD\Projects RPD v1.0.0.4\TR\TR\obj\Debug\TR.pdb
+E:\RPD\Projects RPD v1.0.0.5\TR\TR\bin\Debug\TR.dll
+E:\RPD\Projects RPD v1.0.0.5\TR\TR\bin\Debug\TR.pdb
+E:\RPD\Projects RPD v1.0.0.5\TR\TR\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.5\TR\TR\bin\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.5\TR\TR\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+E:\RPD\Projects RPD v1.0.0.5\TR\TR\obj\Debug\TR.Properties.Resources.resources
+E:\RPD\Projects RPD v1.0.0.5\TR\TR\obj\Debug\TR.TR.resources
+E:\RPD\Projects RPD v1.0.0.5\TR\TR\obj\Debug\TR.csproj.GenerateResource.Cache
+E:\RPD\Projects RPD v1.0.0.5\TR\TR\obj\Debug\TR.dll
+E:\RPD\Projects RPD v1.0.0.5\TR\TR\obj\Debug\TR.pdb
+F:\RPD\Projects RPD v1.0.0.9\TR\TR\bin\Debug\TR.dll
+F:\RPD\Projects RPD v1.0.0.9\TR\TR\bin\Debug\TR.pdb
+F:\RPD\Projects RPD v1.0.0.9\TR\TR\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+F:\RPD\Projects RPD v1.0.0.9\TR\TR\bin\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+F:\RPD\Projects RPD v1.0.0.9\TR\TR\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+F:\RPD\Projects RPD v1.0.0.9\TR\TR\obj\Debug\TR.csprojResolveAssemblyReference.cache
+F:\RPD\Projects RPD v1.0.0.9\TR\TR\obj\Debug\TR.Properties.Resources.resources
+F:\RPD\Projects RPD v1.0.0.9\TR\TR\obj\Debug\TR.TR.resources
+F:\RPD\Projects RPD v1.0.0.9\TR\TR\obj\Debug\TR.csproj.GenerateResource.Cache
+F:\RPD\Projects RPD v1.0.0.9\TR\TR\obj\Debug\TR.dll
+F:\RPD\Projects RPD v1.0.0.9\TR\TR\obj\Debug\TR.pdb
+D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\TR\TR\bin\Debug\TR.dll
+D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\TR\TR\bin\Debug\TR.pdb
+D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\TR\TR\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\TR\TR\bin\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\TR\TR\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\TR\TR\obj\Debug\TR.Properties.Resources.resources
+D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\TR\TR\obj\Debug\TR.TR.resources
+D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\TR\TR\obj\Debug\TR.csproj.GenerateResource.Cache
+D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\TR\TR\obj\Debug\TR.dll
+D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\TR\TR\obj\Debug\TR.pdb

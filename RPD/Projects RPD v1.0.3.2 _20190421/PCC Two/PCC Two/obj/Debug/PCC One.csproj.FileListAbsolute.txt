@@ -1,0 +1,9 @@
+D:\Projects\PCC One\PCC One\bin\Debug\PCC One.dll
+D:\Projects\PCC One\PCC One\bin\Debug\PCC One.pdb
+D:\Projects\PCC One\PCC One\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Projects\PCC One\PCC One\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\Projects\PCC One\PCC One\obj\Debug\PCC_One.PCC.resources
+D:\Projects\PCC One\PCC One\obj\Debug\PCC_One.Properties.Resources.resources
+D:\Projects\PCC One\PCC One\obj\Debug\PCC One.csproj.GenerateResource.Cache
+D:\Projects\PCC One\PCC One\obj\Debug\PCC One.dll
+D:\Projects\PCC One\PCC One\obj\Debug\PCC One.pdb

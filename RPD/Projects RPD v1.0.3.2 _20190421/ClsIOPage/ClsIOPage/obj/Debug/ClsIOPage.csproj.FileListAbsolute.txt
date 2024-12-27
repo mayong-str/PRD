@@ -1,0 +1,25 @@
+D:\Projects\ClsIOPage\ClsIOPage\bin\Debug\ClsIOPage.dll
+D:\Projects\ClsIOPage\ClsIOPage\bin\Debug\ClsIOPage.pdb
+D:\Projects\ClsIOPage\ClsIOPage\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Projects\ClsIOPage\ClsIOPage\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\Projects\ClsIOPage\ClsIOPage\obj\Debug\ClsIOPage.csprojResolveAssemblyReference.cache
+D:\Projects\ClsIOPage\ClsIOPage\obj\Debug\ClsIOPage.ucIOPage.resources
+D:\Projects\ClsIOPage\ClsIOPage\obj\Debug\ClsIOPage.csproj.GenerateResource.Cache
+D:\Projects\ClsIOPage\ClsIOPage\obj\Debug\ClsIOPage.dll
+D:\Projects\ClsIOPage\ClsIOPage\obj\Debug\ClsIOPage.pdb
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\ClsIOPage\ClsIOPage\bin\Debug\ClsIOPage.dll
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\ClsIOPage\ClsIOPage\bin\Debug\ClsIOPage.pdb
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\ClsIOPage\ClsIOPage\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\ClsIOPage\ClsIOPage\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\ClsIOPage\ClsIOPage\obj\Debug\ClsIOPage.ucIOPage.resources
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\ClsIOPage\ClsIOPage\obj\Debug\ClsIOPage.csproj.GenerateResource.Cache
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\ClsIOPage\ClsIOPage\obj\Debug\ClsIOPage.dll
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\ClsIOPage\ClsIOPage\obj\Debug\ClsIOPage.pdb
+D:\工作\RPD\Projects RPD v1.0.0.1\ClsIOPage\ClsIOPage\bin\Debug\ClsIOPage.dll
+D:\工作\RPD\Projects RPD v1.0.0.1\ClsIOPage\ClsIOPage\bin\Debug\ClsIOPage.pdb
+D:\工作\RPD\Projects RPD v1.0.0.1\ClsIOPage\ClsIOPage\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\工作\RPD\Projects RPD v1.0.0.1\ClsIOPage\ClsIOPage\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\工作\RPD\Projects RPD v1.0.0.1\ClsIOPage\ClsIOPage\obj\Debug\ClsIOPage.ucIOPage.resources
+D:\工作\RPD\Projects RPD v1.0.0.1\ClsIOPage\ClsIOPage\obj\Debug\ClsIOPage.csproj.GenerateResource.Cache
+D:\工作\RPD\Projects RPD v1.0.0.1\ClsIOPage\ClsIOPage\obj\Debug\ClsIOPage.dll
+D:\工作\RPD\Projects RPD v1.0.0.1\ClsIOPage\ClsIOPage\obj\Debug\ClsIOPage.pdb

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Setting>
+  <MsSQL>
+    <ip>192.168.122.97</ip>
+    <database>RPD</database>
+    <account>sa</account>
+    <password>123456</password>
+  </MsSQL>
+</Setting>

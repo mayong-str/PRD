@@ -1,0 +1,77 @@
+D:\Projects\PCC One\PCC One\bin\Debug\PCC One.dll
+D:\Projects\PCC One\PCC One\bin\Debug\PCC One.pdb
+D:\Projects\PCC One\PCC One\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Projects\PCC One\PCC One\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\Projects\PCC One\PCC One\obj\Debug\PCC_One.PCC.resources
+D:\Projects\PCC One\PCC One\obj\Debug\PCC_One.Properties.Resources.resources
+D:\Projects\PCC One\PCC One\obj\Debug\PCC One.csproj.GenerateResource.Cache
+D:\Projects\PCC One\PCC One\obj\Debug\PCC One.dll
+D:\Projects\PCC One\PCC One\obj\Debug\PCC One.pdb
+C:\Users\Ar\Desktop\Projects RPD -test\PCC One\PCC One\bin\Debug\PCC One.dll
+C:\Users\Ar\Desktop\Projects RPD -test\PCC One\PCC One\bin\Debug\PCC One.pdb
+C:\Users\Ar\Desktop\Projects RPD -test\PCC One\PCC One\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ar\Desktop\Projects RPD -test\PCC One\PCC One\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\Ar\Desktop\Projects RPD -test\PCC One\PCC One\obj\Debug\PCC_One.PCC.resources
+C:\Users\Ar\Desktop\Projects RPD -test\PCC One\PCC One\obj\Debug\PCC_One.Properties.Resources.resources
+C:\Users\Ar\Desktop\Projects RPD -test\PCC One\PCC One\obj\Debug\PCC One.csproj.GenerateResource.Cache
+C:\Users\Ar\Desktop\Projects RPD -test\PCC One\PCC One\obj\Debug\PCC One.dll
+C:\Users\Ar\Desktop\Projects RPD -test\PCC One\PCC One\obj\Debug\PCC One.pdb
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\PCC One\PCC One\bin\Debug\PCC One.dll
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\PCC One\PCC One\bin\Debug\PCC One.pdb
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\PCC One\PCC One\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\PCC One\PCC One\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\PCC One\PCC One\obj\Debug\PCC One.csprojResolveAssemblyReference.cache
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\PCC One\PCC One\obj\Debug\PCC_One.PCC.resources
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\PCC One\PCC One\obj\Debug\PCC_One.Properties.Resources.resources
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\PCC One\PCC One\obj\Debug\PCC One.csproj.GenerateResource.Cache
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\PCC One\PCC One\obj\Debug\PCC One.dll
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\PCC One\PCC One\obj\Debug\PCC One.pdb
+E:\RPD\Projects RPD v1.0.0.3\PCC One\PCC One\bin\Debug\PCC One.dll
+E:\RPD\Projects RPD v1.0.0.3\PCC One\PCC One\bin\Debug\PCC One.pdb
+E:\RPD\Projects RPD v1.0.0.3\PCC One\PCC One\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.3\PCC One\PCC One\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+E:\RPD\Projects RPD v1.0.0.3\PCC One\PCC One\obj\Debug\PCC One.csprojResolveAssemblyReference.cache
+E:\RPD\Projects RPD v1.0.0.3\PCC One\PCC One\obj\Debug\PCC_One.PCC.resources
+E:\RPD\Projects RPD v1.0.0.3\PCC One\PCC One\obj\Debug\PCC_One.Properties.Resources.resources
+E:\RPD\Projects RPD v1.0.0.3\PCC One\PCC One\obj\Debug\PCC One.csproj.GenerateResource.Cache
+E:\RPD\Projects RPD v1.0.0.3\PCC One\PCC One\obj\Debug\PCC One.dll
+E:\RPD\Projects RPD v1.0.0.3\PCC One\PCC One\obj\Debug\PCC One.pdb
+E:\RPD\Projects RPD v1.0.0.5\PCC One\PCC One\bin\Debug\PCC One.dll
+E:\RPD\Projects RPD v1.0.0.5\PCC One\PCC One\bin\Debug\PCC One.pdb
+E:\RPD\Projects RPD v1.0.0.5\PCC One\PCC One\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.5\PCC One\PCC One\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+E:\RPD\Projects RPD v1.0.0.5\PCC One\PCC One\obj\Debug\PCC_One.PCC.resources
+E:\RPD\Projects RPD v1.0.0.5\PCC One\PCC One\obj\Debug\PCC_One.Properties.Resources.resources
+E:\RPD\Projects RPD v1.0.0.5\PCC One\PCC One\obj\Debug\PCC One.csproj.GenerateResource.Cache
+E:\RPD\Projects RPD v1.0.0.5\PCC One\PCC One\obj\Debug\PCC One.dll
+E:\RPD\Projects RPD v1.0.0.5\PCC One\PCC One\obj\Debug\PCC One.pdb
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\PCC One\PCC One\bin\Debug\PCC One.dll
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\PCC One\PCC One\bin\Debug\PCC One.pdb
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\PCC One\PCC One\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\PCC One\PCC One\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\PCC One\PCC One\obj\Debug\PCC One.csprojResolveAssemblyReference.cache
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\PCC One\PCC One\obj\Debug\PCC_One.PCC.resources
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\PCC One\PCC One\obj\Debug\PCC_One.Properties.Resources.resources
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\PCC One\PCC One\obj\Debug\PCC One.csproj.GenerateResource.Cache
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\PCC One\PCC One\obj\Debug\PCC One.dll
+E:\RPD\Projects RPD v1.0.0.7\Projects RPD v1.0.0.7\PCC One\PCC One\obj\Debug\PCC One.pdb
+E:\RPD\Projects RPD v1.0.0.8\PCC One\PCC One\bin\Debug\PCC One.dll
+E:\RPD\Projects RPD v1.0.0.8\PCC One\PCC One\bin\Debug\PCC One.pdb
+E:\RPD\Projects RPD v1.0.0.8\PCC One\PCC One\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.8\PCC One\PCC One\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+E:\RPD\Projects RPD v1.0.0.8\PCC One\PCC One\obj\Debug\PCC One.csprojResolveAssemblyReference.cache
+E:\RPD\Projects RPD v1.0.0.8\PCC One\PCC One\obj\Debug\PCC_One.PCC.resources
+E:\RPD\Projects RPD v1.0.0.8\PCC One\PCC One\obj\Debug\PCC_One.Properties.Resources.resources
+E:\RPD\Projects RPD v1.0.0.8\PCC One\PCC One\obj\Debug\PCC One.csproj.GenerateResource.Cache
+E:\RPD\Projects RPD v1.0.0.8\PCC One\PCC One\obj\Debug\PCC One.dll
+E:\RPD\Projects RPD v1.0.0.8\PCC One\PCC One\obj\Debug\PCC One.pdb
+D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\PCC One\PCC One\bin\Debug\PCC One.dll
+D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\PCC One\PCC One\bin\Debug\PCC One.pdb
+D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\PCC One\PCC One\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\PCC One\PCC One\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\PCC One\PCC One\obj\Debug\PCC_One.PCC.resources
+D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\PCC One\PCC One\obj\Debug\PCC_One.Properties.Resources.resources
+D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\PCC One\PCC One\obj\Debug\PCC One.csproj.GenerateResource.Cache
+D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\PCC One\PCC One\obj\Debug\PCC One.dll
+D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\PCC One\PCC One\obj\Debug\PCC One.pdb
+D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\PCC One\PCC One\obj\Debug\PCC One.csprojResolveAssemblyReference.cache

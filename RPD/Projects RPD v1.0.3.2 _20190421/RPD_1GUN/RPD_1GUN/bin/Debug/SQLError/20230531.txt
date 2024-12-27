@@ -1,0 +1,757 @@
+INSERT INTO PROCESSDATA_LOG([STR_DT]
+                                                                          ,[RGunArSet]
+                                                                          ,[ChamberO2Set]
+                                                                          ,[ChamberArSet]
+                                                                          ,[RGunArFlow]
+                                                                          ,[ChamberO2Flow]
+                                                                          ,[ChamberArFlow]
+                                                                          ,[TRGaugeValueC]
+                                                                          ,[RGunCurrentofHearthCoil]
+                                                                          ,[RGunCurrentofSteeringCoil]
+                                                                          ,[RGunCurrentofG2Coil]
+                                                                          ,[RGunVoltageofMainHearth]
+                                                                          ,[RGunVoltageofBeamGuide]
+                                                                          ,[RGunDischargeVoltage]
+                                                                          ,[RGunCurrentofMainHearth]
+                                                                          ,[RGunCurrentofBeamGuide]
+                                                                          ,[RGunMHPushUpLevel]
+                                                                          ,[RECIPE_NUMBER]
+                                                                          
+                                                                          ,[TRGaugeValuePH]
+                                                                          ,[TRAY_ID]) 
+                                                                           VALUES('2023-05-31 10:47:15'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'5E-06'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,''
+                                                                                 ,'7.5E-08'
+                                                                                 , '')
+2023/05/31 10:47:48
+System.Data.SqlClient.SqlException (0x80131904): 已成功与服务器建立连接，但是在登录前的握手期间发生错误。 (provider: SSL Provider, error: 0 - 等待的操作过时。) ---> System.ComponentModel.Win32Exception (0x80004005): 等待的操作过时。
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreateNonPooledConnection(DbConnection owningConnection, DbConnectionPoolGroup poolGroup, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 RPD_1GUN.clsDBN.ExecuteSqlCommand(String SqlCommand) 位置 D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\clsDBN.cs:行号 67
+ClientConnectionId:c984648f-5806-4af2-b9c6-d07cbd15e92c
+Error Number:258,State:0,Class:20
+INSERT INTO PROCESSDATA_LOG([STR_DT]
+                                                                          ,[RGunArSet]
+                                                                          ,[ChamberO2Set]
+                                                                          ,[ChamberArSet]
+                                                                          ,[RGunArFlow]
+                                                                          ,[ChamberO2Flow]
+                                                                          ,[ChamberArFlow]
+                                                                          ,[TRGaugeValueC]
+                                                                          ,[RGunCurrentofHearthCoil]
+                                                                          ,[RGunCurrentofSteeringCoil]
+                                                                          ,[RGunCurrentofG2Coil]
+                                                                          ,[RGunVoltageofMainHearth]
+                                                                          ,[RGunVoltageofBeamGuide]
+                                                                          ,[RGunDischargeVoltage]
+                                                                          ,[RGunCurrentofMainHearth]
+                                                                          ,[RGunCurrentofBeamGuide]
+                                                                          ,[RGunMHPushUpLevel]
+                                                                          ,[RECIPE_NUMBER]
+                                                                          
+                                                                          ,[TRGaugeValuePH]
+                                                                          ,[TRAY_ID]) 
+                                                                           VALUES('2023-05-31 14:52:34'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'5E-06'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,''
+                                                                                 ,'7.5E-08'
+                                                                                 , '')
+2023/05/31 14:52:42
+System.Data.SqlClient.SqlException (0x80131904): 违反了 PRIMARY KEY 约束“PK_PROCESSDATA_LOG”。不能在对象“dbo.PROCESSDATA_LOG”中插入重复键。重复键值为 (05 31 2023  2:52PM)。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 RPD_1GUN.clsDBN.ExecuteSqlCommand(String SqlCommand) 位置 D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\clsDBN.cs:行号 78
+ClientConnectionId:e831bead-5d2f-4111-adff-b11d994f0937
+Error Number:2627,State:1,Class:14
+INSERT INTO PROCESSDATA_LOG([STR_DT]
+                                                                          ,[RGunArSet]
+                                                                          ,[ChamberO2Set]
+                                                                          ,[ChamberArSet]
+                                                                          ,[RGunArFlow]
+                                                                          ,[ChamberO2Flow]
+                                                                          ,[ChamberArFlow]
+                                                                          ,[TRGaugeValueC]
+                                                                          ,[RGunCurrentofHearthCoil]
+                                                                          ,[RGunCurrentofSteeringCoil]
+                                                                          ,[RGunCurrentofG2Coil]
+                                                                          ,[RGunVoltageofMainHearth]
+                                                                          ,[RGunVoltageofBeamGuide]
+                                                                          ,[RGunDischargeVoltage]
+                                                                          ,[RGunCurrentofMainHearth]
+                                                                          ,[RGunCurrentofBeamGuide]
+                                                                          ,[RGunMHPushUpLevel]
+                                                                          ,[RECIPE_NUMBER]
+                                                                          
+                                                                          ,[TRGaugeValuePH]
+                                                                          ,[TRAY_ID]) 
+                                                                           VALUES('2023-05-31 14:52:57'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'5E-06'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,''
+                                                                                 ,'7.5E-08'
+                                                                                 , '')
+2023/05/31 14:52:57
+System.Data.SqlClient.SqlException (0x80131904): 违反了 PRIMARY KEY 约束“PK_PROCESSDATA_LOG”。不能在对象“dbo.PROCESSDATA_LOG”中插入重复键。重复键值为 (05 31 2023  2:52PM)。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 RPD_1GUN.clsDBN.ExecuteSqlCommand(String SqlCommand) 位置 D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\clsDBN.cs:行号 78
+ClientConnectionId:b1cf059c-b808-4acb-b4ec-b8f0e87c7612
+Error Number:2627,State:1,Class:14
+INSERT INTO PROCESSDATA_LOG([STR_DT]
+                                                                          ,[RGunArSet]
+                                                                          ,[ChamberO2Set]
+                                                                          ,[ChamberArSet]
+                                                                          ,[RGunArFlow]
+                                                                          ,[ChamberO2Flow]
+                                                                          ,[ChamberArFlow]
+                                                                          ,[TRGaugeValueC]
+                                                                          ,[RGunCurrentofHearthCoil]
+                                                                          ,[RGunCurrentofSteeringCoil]
+                                                                          ,[RGunCurrentofG2Coil]
+                                                                          ,[RGunVoltageofMainHearth]
+                                                                          ,[RGunVoltageofBeamGuide]
+                                                                          ,[RGunDischargeVoltage]
+                                                                          ,[RGunCurrentofMainHearth]
+                                                                          ,[RGunCurrentofBeamGuide]
+                                                                          ,[RGunMHPushUpLevel]
+                                                                          ,[RECIPE_NUMBER]
+                                                                          
+                                                                          ,[TRGaugeValuePH]
+                                                                          ,[TRAY_ID]) 
+                                                                           VALUES('2023-05-31 14:53:01'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'5E-06'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,''
+                                                                                 ,'7.5E-08'
+                                                                                 , '')
+2023/05/31 14:53:01
+System.Data.SqlClient.SqlException (0x80131904): 违反了 PRIMARY KEY 约束“PK_PROCESSDATA_LOG”。不能在对象“dbo.PROCESSDATA_LOG”中插入重复键。重复键值为 (05 31 2023  2:53PM)。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 RPD_1GUN.clsDBN.ExecuteSqlCommand(String SqlCommand) 位置 D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\clsDBN.cs:行号 78
+ClientConnectionId:9ffc9a6c-62c0-4683-a372-a1a0cf544253
+Error Number:2627,State:1,Class:14
+INSERT INTO PROCESSDATA_LOG([STR_DT]
+                                                                          ,[RGunArSet]
+                                                                          ,[ChamberO2Set]
+                                                                          ,[ChamberArSet]
+                                                                          ,[RGunArFlow]
+                                                                          ,[ChamberO2Flow]
+                                                                          ,[ChamberArFlow]
+                                                                          ,[TRGaugeValueC]
+                                                                          ,[RGunCurrentofHearthCoil]
+                                                                          ,[RGunCurrentofSteeringCoil]
+                                                                          ,[RGunCurrentofG2Coil]
+                                                                          ,[RGunVoltageofMainHearth]
+                                                                          ,[RGunVoltageofBeamGuide]
+                                                                          ,[RGunDischargeVoltage]
+                                                                          ,[RGunCurrentofMainHearth]
+                                                                          ,[RGunCurrentofBeamGuide]
+                                                                          ,[RGunMHPushUpLevel]
+                                                                          ,[RECIPE_NUMBER]
+                                                                          
+                                                                          ,[TRGaugeValuePH]
+                                                                          ,[TRAY_ID]) 
+                                                                           VALUES('2023-05-31 14:53:02'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'5E-06'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,''
+                                                                                 ,'7.5E-08'
+                                                                                 , '')
+2023/05/31 14:53:02
+System.Data.SqlClient.SqlException (0x80131904): 违反了 PRIMARY KEY 约束“PK_PROCESSDATA_LOG”。不能在对象“dbo.PROCESSDATA_LOG”中插入重复键。重复键值为 (05 31 2023  2:53PM)。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 RPD_1GUN.clsDBN.ExecuteSqlCommand(String SqlCommand) 位置 D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\clsDBN.cs:行号 78
+ClientConnectionId:6edb0aab-7377-408c-9b9b-85443ea617b6
+Error Number:2627,State:1,Class:14
+INSERT INTO PROCESSDATA_LOG([STR_DT]
+                                                                          ,[RGunArSet]
+                                                                          ,[ChamberO2Set]
+                                                                          ,[ChamberArSet]
+                                                                          ,[RGunArFlow]
+                                                                          ,[ChamberO2Flow]
+                                                                          ,[ChamberArFlow]
+                                                                          ,[TRGaugeValueC]
+                                                                          ,[RGunCurrentofHearthCoil]
+                                                                          ,[RGunCurrentofSteeringCoil]
+                                                                          ,[RGunCurrentofG2Coil]
+                                                                          ,[RGunVoltageofMainHearth]
+                                                                          ,[RGunVoltageofBeamGuide]
+                                                                          ,[RGunDischargeVoltage]
+                                                                          ,[RGunCurrentofMainHearth]
+                                                                          ,[RGunCurrentofBeamGuide]
+                                                                          ,[RGunMHPushUpLevel]
+                                                                          ,[RECIPE_NUMBER]
+                                                                          
+                                                                          ,[TRGaugeValuePH]
+                                                                          ,[TRAY_ID]) 
+                                                                           VALUES('2023-05-31 14:53:03'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'5E-06'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,''
+                                                                                 ,'7.5E-08'
+                                                                                 , '')
+2023/05/31 14:53:03
+System.Data.SqlClient.SqlException (0x80131904): 违反了 PRIMARY KEY 约束“PK_PROCESSDATA_LOG”。不能在对象“dbo.PROCESSDATA_LOG”中插入重复键。重复键值为 (05 31 2023  2:53PM)。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 RPD_1GUN.clsDBN.ExecuteSqlCommand(String SqlCommand) 位置 D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\clsDBN.cs:行号 78
+ClientConnectionId:723d7987-3c41-4373-8618-be4859171164
+Error Number:2627,State:1,Class:14
+INSERT INTO PROCESSDATA_LOG([STR_DT]
+                                                                          ,[RGunArSet]
+                                                                          ,[ChamberO2Set]
+                                                                          ,[ChamberArSet]
+                                                                          ,[RGunArFlow]
+                                                                          ,[ChamberO2Flow]
+                                                                          ,[ChamberArFlow]
+                                                                          ,[TRGaugeValueC]
+                                                                          ,[RGunCurrentofHearthCoil]
+                                                                          ,[RGunCurrentofSteeringCoil]
+                                                                          ,[RGunCurrentofG2Coil]
+                                                                          ,[RGunVoltageofMainHearth]
+                                                                          ,[RGunVoltageofBeamGuide]
+                                                                          ,[RGunDischargeVoltage]
+                                                                          ,[RGunCurrentofMainHearth]
+                                                                          ,[RGunCurrentofBeamGuide]
+                                                                          ,[RGunMHPushUpLevel]
+                                                                          ,[RECIPE_NUMBER]
+                                                                          
+                                                                          ,[TRGaugeValuePH]
+                                                                          ,[TRAY_ID]) 
+                                                                           VALUES('2023-05-31 14:53:04'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'5E-06'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,''
+                                                                                 ,'7.5E-08'
+                                                                                 , '')
+2023/05/31 14:53:06
+System.Data.SqlClient.SqlException (0x80131904): 违反了 PRIMARY KEY 约束“PK_PROCESSDATA_LOG”。不能在对象“dbo.PROCESSDATA_LOG”中插入重复键。重复键值为 (05 31 2023  2:53PM)。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 RPD_1GUN.clsDBN.ExecuteSqlCommand(String SqlCommand) 位置 D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\clsDBN.cs:行号 78
+ClientConnectionId:d10691f7-2af3-41af-bd0a-d31ae3f95ffb
+Error Number:2627,State:1,Class:14
+INSERT INTO PROCESSDATA_LOG([STR_DT]
+                                                                          ,[RGunArSet]
+                                                                          ,[ChamberO2Set]
+                                                                          ,[ChamberArSet]
+                                                                          ,[RGunArFlow]
+                                                                          ,[ChamberO2Flow]
+                                                                          ,[ChamberArFlow]
+                                                                          ,[TRGaugeValueC]
+                                                                          ,[RGunCurrentofHearthCoil]
+                                                                          ,[RGunCurrentofSteeringCoil]
+                                                                          ,[RGunCurrentofG2Coil]
+                                                                          ,[RGunVoltageofMainHearth]
+                                                                          ,[RGunVoltageofBeamGuide]
+                                                                          ,[RGunDischargeVoltage]
+                                                                          ,[RGunCurrentofMainHearth]
+                                                                          ,[RGunCurrentofBeamGuide]
+                                                                          ,[RGunMHPushUpLevel]
+                                                                          ,[RECIPE_NUMBER]
+                                                                          
+                                                                          ,[TRGaugeValuePH]
+                                                                          ,[TRAY_ID]) 
+                                                                           VALUES('2023-05-31 14:53:09'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'5E-06'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,''
+                                                                                 ,'7.5E-08'
+                                                                                 , '')
+2023/05/31 14:53:09
+System.Data.SqlClient.SqlException (0x80131904): 违反了 PRIMARY KEY 约束“PK_PROCESSDATA_LOG”。不能在对象“dbo.PROCESSDATA_LOG”中插入重复键。重复键值为 (05 31 2023  2:53PM)。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 RPD_1GUN.clsDBN.ExecuteSqlCommand(String SqlCommand) 位置 D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\clsDBN.cs:行号 78
+ClientConnectionId:a9946a54-0c7d-4d09-bdde-e6a564489541
+Error Number:2627,State:1,Class:14
+INSERT INTO PROCESSDATA_LOG([STR_DT]
+                                                                          ,[RGunArSet]
+                                                                          ,[ChamberO2Set]
+                                                                          ,[ChamberArSet]
+                                                                          ,[RGunArFlow]
+                                                                          ,[ChamberO2Flow]
+                                                                          ,[ChamberArFlow]
+                                                                          ,[TRGaugeValueC]
+                                                                          ,[RGunCurrentofHearthCoil]
+                                                                          ,[RGunCurrentofSteeringCoil]
+                                                                          ,[RGunCurrentofG2Coil]
+                                                                          ,[RGunVoltageofMainHearth]
+                                                                          ,[RGunVoltageofBeamGuide]
+                                                                          ,[RGunDischargeVoltage]
+                                                                          ,[RGunCurrentofMainHearth]
+                                                                          ,[RGunCurrentofBeamGuide]
+                                                                          ,[RGunMHPushUpLevel]
+                                                                          ,[RECIPE_NUMBER]
+                                                                          
+                                                                          ,[TRGaugeValuePH]
+                                                                          ,[TRAY_ID]) 
+                                                                           VALUES('2023-05-31 14:53:10'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'5E-06'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,''
+                                                                                 ,'7.5E-08'
+                                                                                 , '')
+2023/05/31 14:53:10
+System.Data.SqlClient.SqlException (0x80131904): 违反了 PRIMARY KEY 约束“PK_PROCESSDATA_LOG”。不能在对象“dbo.PROCESSDATA_LOG”中插入重复键。重复键值为 (05 31 2023  2:53PM)。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 RPD_1GUN.clsDBN.ExecuteSqlCommand(String SqlCommand) 位置 D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\clsDBN.cs:行号 78
+ClientConnectionId:356bf3d4-6087-4e76-8c8a-aff3a4dbde07
+Error Number:2627,State:1,Class:14
+INSERT INTO PROCESSDATA_LOG([STR_DT]
+                                                                          ,[RGunArSet]
+                                                                          ,[ChamberO2Set]
+                                                                          ,[ChamberArSet]
+                                                                          ,[RGunArFlow]
+                                                                          ,[ChamberO2Flow]
+                                                                          ,[ChamberArFlow]
+                                                                          ,[TRGaugeValueC]
+                                                                          ,[RGunCurrentofHearthCoil]
+                                                                          ,[RGunCurrentofSteeringCoil]
+                                                                          ,[RGunCurrentofG2Coil]
+                                                                          ,[RGunVoltageofMainHearth]
+                                                                          ,[RGunVoltageofBeamGuide]
+                                                                          ,[RGunDischargeVoltage]
+                                                                          ,[RGunCurrentofMainHearth]
+                                                                          ,[RGunCurrentofBeamGuide]
+                                                                          ,[RGunMHPushUpLevel]
+                                                                          ,[RECIPE_NUMBER]
+                                                                          
+                                                                          ,[TRGaugeValuePH]
+                                                                          ,[TRAY_ID]) 
+                                                                           VALUES('2023-05-31 14:53:13'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'5E-06'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,''
+                                                                                 ,'7.5E-08'
+                                                                                 , '')
+2023/05/31 14:53:13
+System.Data.SqlClient.SqlException (0x80131904): 违反了 PRIMARY KEY 约束“PK_PROCESSDATA_LOG”。不能在对象“dbo.PROCESSDATA_LOG”中插入重复键。重复键值为 (05 31 2023  2:53PM)。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 RPD_1GUN.clsDBN.ExecuteSqlCommand(String SqlCommand) 位置 D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\clsDBN.cs:行号 78
+ClientConnectionId:d4fc2cb5-301b-4270-bb90-1023eb5b5d8f
+Error Number:2627,State:1,Class:14
+INSERT INTO PROCESSDATA_LOG([STR_DT]
+                                                                          ,[RGunArSet]
+                                                                          ,[ChamberO2Set]
+                                                                          ,[ChamberArSet]
+                                                                          ,[RGunArFlow]
+                                                                          ,[ChamberO2Flow]
+                                                                          ,[ChamberArFlow]
+                                                                          ,[TRGaugeValueC]
+                                                                          ,[RGunCurrentofHearthCoil]
+                                                                          ,[RGunCurrentofSteeringCoil]
+                                                                          ,[RGunCurrentofG2Coil]
+                                                                          ,[RGunVoltageofMainHearth]
+                                                                          ,[RGunVoltageofBeamGuide]
+                                                                          ,[RGunDischargeVoltage]
+                                                                          ,[RGunCurrentofMainHearth]
+                                                                          ,[RGunCurrentofBeamGuide]
+                                                                          ,[RGunMHPushUpLevel]
+                                                                          ,[RECIPE_NUMBER]
+                                                                          
+                                                                          ,[TRGaugeValuePH]
+                                                                          ,[TRAY_ID]) 
+                                                                           VALUES('2023-05-31 14:53:14'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'5E-06'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,''
+                                                                                 ,'7.5E-08'
+                                                                                 , '')
+2023/05/31 14:53:14
+System.Data.SqlClient.SqlException (0x80131904): 违反了 PRIMARY KEY 约束“PK_PROCESSDATA_LOG”。不能在对象“dbo.PROCESSDATA_LOG”中插入重复键。重复键值为 (05 31 2023  2:53PM)。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 RPD_1GUN.clsDBN.ExecuteSqlCommand(String SqlCommand) 位置 D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\clsDBN.cs:行号 78
+ClientConnectionId:2ed2c852-319b-4748-87cb-e4e85aec8d83
+Error Number:2627,State:1,Class:14
+INSERT INTO PROCESSDATA_LOG([STR_DT]
+                                                                          ,[RGunArSet]
+                                                                          ,[ChamberO2Set]
+                                                                          ,[ChamberArSet]
+                                                                          ,[RGunArFlow]
+                                                                          ,[ChamberO2Flow]
+                                                                          ,[ChamberArFlow]
+                                                                          ,[TRGaugeValueC]
+                                                                          ,[RGunCurrentofHearthCoil]
+                                                                          ,[RGunCurrentofSteeringCoil]
+                                                                          ,[RGunCurrentofG2Coil]
+                                                                          ,[RGunVoltageofMainHearth]
+                                                                          ,[RGunVoltageofBeamGuide]
+                                                                          ,[RGunDischargeVoltage]
+                                                                          ,[RGunCurrentofMainHearth]
+                                                                          ,[RGunCurrentofBeamGuide]
+                                                                          ,[RGunMHPushUpLevel]
+                                                                          ,[RECIPE_NUMBER]
+                                                                          
+                                                                          ,[TRGaugeValuePH]
+                                                                          ,[TRAY_ID]) 
+                                                                           VALUES('2023-05-31 14:53:17'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'5E-06'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,''
+                                                                                 ,'7.5E-08'
+                                                                                 , '')
+2023/05/31 14:53:18
+System.Data.SqlClient.SqlException (0x80131904): 违反了 PRIMARY KEY 约束“PK_PROCESSDATA_LOG”。不能在对象“dbo.PROCESSDATA_LOG”中插入重复键。重复键值为 (05 31 2023  2:53PM)。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 RPD_1GUN.clsDBN.ExecuteSqlCommand(String SqlCommand) 位置 D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\clsDBN.cs:行号 78
+ClientConnectionId:384f17ef-8e4b-445f-8d31-c1626f43ed9f
+Error Number:2627,State:1,Class:14
+INSERT INTO PROCESSDATA_LOG([STR_DT]
+                                                                          ,[RGunArSet]
+                                                                          ,[ChamberO2Set]
+                                                                          ,[ChamberArSet]
+                                                                          ,[RGunArFlow]
+                                                                          ,[ChamberO2Flow]
+                                                                          ,[ChamberArFlow]
+                                                                          ,[TRGaugeValueC]
+                                                                          ,[RGunCurrentofHearthCoil]
+                                                                          ,[RGunCurrentofSteeringCoil]
+                                                                          ,[RGunCurrentofG2Coil]
+                                                                          ,[RGunVoltageofMainHearth]
+                                                                          ,[RGunVoltageofBeamGuide]
+                                                                          ,[RGunDischargeVoltage]
+                                                                          ,[RGunCurrentofMainHearth]
+                                                                          ,[RGunCurrentofBeamGuide]
+                                                                          ,[RGunMHPushUpLevel]
+                                                                          ,[RECIPE_NUMBER]
+                                                                          
+                                                                          ,[TRGaugeValuePH]
+                                                                          ,[TRAY_ID]) 
+                                                                           VALUES('2023-05-31 14:53:18'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'5E-06'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,''
+                                                                                 ,'7.5E-08'
+                                                                                 , '')
+2023/05/31 14:53:19
+System.Data.SqlClient.SqlException (0x80131904): 违反了 PRIMARY KEY 约束“PK_PROCESSDATA_LOG”。不能在对象“dbo.PROCESSDATA_LOG”中插入重复键。重复键值为 (05 31 2023  2:53PM)。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 RPD_1GUN.clsDBN.ExecuteSqlCommand(String SqlCommand) 位置 D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\clsDBN.cs:行号 78
+ClientConnectionId:b080c737-1e5c-43ef-a29b-2e08b6edde8e
+Error Number:2627,State:1,Class:14
+INSERT INTO PROCESSDATA_LOG([STR_DT]
+                                                                          ,[RGunArSet]
+                                                                          ,[ChamberO2Set]
+                                                                          ,[ChamberArSet]
+                                                                          ,[RGunArFlow]
+                                                                          ,[ChamberO2Flow]
+                                                                          ,[ChamberArFlow]
+                                                                          ,[TRGaugeValueC]
+                                                                          ,[RGunCurrentofHearthCoil]
+                                                                          ,[RGunCurrentofSteeringCoil]
+                                                                          ,[RGunCurrentofG2Coil]
+                                                                          ,[RGunVoltageofMainHearth]
+                                                                          ,[RGunVoltageofBeamGuide]
+                                                                          ,[RGunDischargeVoltage]
+                                                                          ,[RGunCurrentofMainHearth]
+                                                                          ,[RGunCurrentofBeamGuide]
+                                                                          ,[RGunMHPushUpLevel]
+                                                                          ,[RECIPE_NUMBER]
+                                                                          
+                                                                          ,[TRGaugeValuePH]
+                                                                          ,[TRAY_ID]) 
+                                                                           VALUES('2023-05-31 14:53:19'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'5E-06'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,''
+                                                                                 ,'7.5E-08'
+                                                                                 , '')
+2023/05/31 14:53:20
+System.Data.SqlClient.SqlException (0x80131904): 违反了 PRIMARY KEY 约束“PK_PROCESSDATA_LOG”。不能在对象“dbo.PROCESSDATA_LOG”中插入重复键。重复键值为 (05 31 2023  2:53PM)。
+语句已终止。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 RPD_1GUN.clsDBN.ExecuteSqlCommand(String SqlCommand) 位置 D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\clsDBN.cs:行号 78
+ClientConnectionId:606fed5b-9350-4867-bc3f-1b25c3eec15f
+Error Number:2627,State:1,Class:14

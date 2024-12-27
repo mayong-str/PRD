@@ -1,0 +1,753 @@
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe.config
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\Interop.ACTMULTILib.dll
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.ResolveComReference.cache
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.pdb
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.dll
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.dll
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.dll
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.dll
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.dll
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.dll
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.dll
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.pdb
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.pdb
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.pdb
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.pdb
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.pdb
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.pdb
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.pdb
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAlarm.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmArchersTest.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAutomationLog.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmEventLog.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmInterLock.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLeakTestLog.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLogin.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmManualPage.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPBTNew.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPCC.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRecipeNew.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRegister.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmSystem.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmTrayMaintain.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Main.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Properties.Resources.resources
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.GenerateResource.Cache
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.exe
+D:\工作\RPD\Projects RPD v1.0.1.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.pdb
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe.config
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\obj\x86\Debug\Interop.ACTMULTILib.dll
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.ResolveComReference.cache
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.exe
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.pdb
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.pdb
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.dll
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.dll
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.dll
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.dll
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.dll
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.dll
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.dll
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.pdb
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.pdb
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.pdb
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.pdb
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.pdb
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.pdb
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.pdb
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\bin\x86\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAlarm.resources
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmArchersTest.resources
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAutomationLog.resources
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmEventLog.resources
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmInterLock.resources
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLeakTestLog.resources
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLogin.resources
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmManualPage.resources
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPBTNew.resources
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPCC.resources
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRecipeNew.resources
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRegister.resources
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmSystem.resources
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmTrayMaintain.resources
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Main.resources
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Properties.Resources.resources
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.GenerateResource.Cache
+D:\工作\RPD\Projects RPD v1.0.1.3\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csprojResolveAssemblyReference.cache
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe.config
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\obj\x86\Debug\Interop.ACTMULTILib.dll
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.ResolveComReference.cache
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.exe
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.pdb
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.pdb
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.dll
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.dll
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.dll
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.dll
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.dll
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.dll
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.dll
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.pdb
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.pdb
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.pdb
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.pdb
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.pdb
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.pdb
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.pdb
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\bin\x86\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAlarm.resources
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmArchersTest.resources
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAutomationLog.resources
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmEventLog.resources
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmInterLock.resources
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLeakTestLog.resources
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLogin.resources
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmManualPage.resources
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPBTNew.resources
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPCC.resources
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRecipeNew.resources
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRegister.resources
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmSystem.resources
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmTrayMaintain.resources
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Main.resources
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Properties.Resources.resources
+D:\工作\RPD\Projects RPD v1.0.1.4\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.GenerateResource.Cache
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe.config
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\obj\x86\Debug\Interop.ACTMULTILib.dll
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.ResolveComReference.cache
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.exe
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.pdb
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.pdb
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.dll
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.dll
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.dll
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.dll
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.dll
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.dll
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.dll
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.pdb
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.pdb
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.pdb
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.pdb
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.pdb
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.pdb
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.pdb
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\bin\x86\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAlarm.resources
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmArchersTest.resources
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAutomationLog.resources
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmEventLog.resources
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmInterLock.resources
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLeakTestLog.resources
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLogin.resources
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmManualPage.resources
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPBTNew.resources
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPCC.resources
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRecipeNew.resources
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRegister.resources
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmSystem.resources
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmTrayMaintain.resources
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Main.resources
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Properties.Resources.resources
+D:\工作\RPD\Projects RPD v1.0.1.5\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.GenerateResource.Cache
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe.config
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\obj\x86\Debug\Interop.ACTMULTILib.dll
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.ResolveComReference.cache
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.exe
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.pdb
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.pdb
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.dll
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.dll
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.dll
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.dll
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.dll
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.dll
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.dll
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.pdb
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.pdb
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.pdb
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.pdb
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.pdb
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.pdb
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.pdb
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\bin\x86\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAlarm.resources
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmArchersTest.resources
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAutomationLog.resources
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmEventLog.resources
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmInterLock.resources
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLeakTestLog.resources
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLogin.resources
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmManualPage.resources
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPBTNew.resources
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPCC.resources
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRecipeNew.resources
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRegister.resources
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmSystem.resources
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmTrayMaintain.resources
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Main.resources
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Properties.Resources.resources
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.GenerateResource.Cache
+D:\工作\RPD\Projects RPD v1.0.1.6\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csprojResolveAssemblyReference.cache
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe.config
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\obj\x86\Debug\Interop.ACTMULTILib.dll
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.ResolveComReference.cache
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.exe
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.pdb
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.pdb
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.dll
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.dll
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.dll
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.dll
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.dll
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.dll
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.dll
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.pdb
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.pdb
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.pdb
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.pdb
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.pdb
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.pdb
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.pdb
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\bin\x86\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAlarm.resources
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmArchersTest.resources
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAutomationLog.resources
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmEventLog.resources
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmInterLock.resources
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLeakTestLog.resources
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLogin.resources
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmManualPage.resources
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPBTNew.resources
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPCC.resources
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRecipeNew.resources
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRegister.resources
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmSystem.resources
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmTrayMaintain.resources
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Main.resources
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Properties.Resources.resources
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.GenerateResource.Cache
+D:\工作\RPD\Projects RPD v1.0.1.7\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csprojResolveAssemblyReference.cache
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe.config
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\obj\x86\Debug\Interop.ACTMULTILib.dll
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.ResolveComReference.cache
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.exe
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.pdb
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.pdb
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.dll
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.dll
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.dll
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.dll
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.dll
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.dll
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.dll
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.pdb
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.pdb
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.pdb
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.pdb
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.pdb
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.pdb
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.pdb
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\bin\x86\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAlarm.resources
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmArchersTest.resources
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAutomationLog.resources
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmEventLog.resources
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmInterLock.resources
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLeakTestLog.resources
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLogin.resources
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmManualPage.resources
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPBTNew.resources
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPCC.resources
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRecipeNew.resources
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRegister.resources
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmSystem.resources
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmTrayMaintain.resources
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Main.resources
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Properties.Resources.resources
+D:\工作\RPD\Projects RPD v1.0.1.8\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.GenerateResource.Cache
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe.config
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\obj\x86\Debug\Interop.ACTMULTILib.dll
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.ResolveComReference.cache
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.exe
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.pdb
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.pdb
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.dll
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.dll
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.dll
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.dll
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.dll
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.dll
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.dll
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.pdb
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.pdb
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.pdb
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.pdb
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.pdb
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.pdb
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.pdb
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\bin\x86\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAlarm.resources
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmArchersTest.resources
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAutomationLog.resources
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmEventLog.resources
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmInterLock.resources
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLeakTestLog.resources
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLogin.resources
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmManualPage.resources
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPBTNew.resources
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPCC.resources
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRecipeNew.resources
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRegister.resources
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmSystem.resources
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmTrayMaintain.resources
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Main.resources
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Properties.Resources.resources
+D:\工作\RPD\Projects RPD v1.0.1.9\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.GenerateResource.Cache
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe.config
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\obj\x86\Debug\Interop.ACTMULTILib.dll
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.ResolveComReference.cache
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.exe
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.pdb
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.pdb
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.dll
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.dll
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.dll
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.dll
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.dll
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.dll
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.dll
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.pdb
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.pdb
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.pdb
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.pdb
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.pdb
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.pdb
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.pdb
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\bin\x86\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAlarm.resources
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmArchersTest.resources
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAutomationLog.resources
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmEventLog.resources
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmInterLock.resources
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLeakTestLog.resources
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLogin.resources
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmManualPage.resources
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPBTNew.resources
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPCC.resources
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRecipeNew.resources
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRegister.resources
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmSystem.resources
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmTrayMaintain.resources
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Main.resources
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Properties.Resources.resources
+D:\工作\RPD\Projects RPD v1.0.2.0\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.GenerateResource.Cache
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe.config
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\Interop.ACTMULTILib.dll
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.ResolveComReference.cache
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.exe
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.pdb
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.pdb
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.dll
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.dll
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.dll
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.dll
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.dll
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.dll
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.dll
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.pdb
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.pdb
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.pdb
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.pdb
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.pdb
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.pdb
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.pdb
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAlarm.resources
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmArchersTest.resources
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAutomationLog.resources
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmEventLog.resources
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmInterLock.resources
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLeakTestLog.resources
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLogin.resources
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmManualPage.resources
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPBTNew.resources
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPCC.resources
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRecipeNew.resources
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRegister.resources
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmSystem.resources
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmTrayMaintain.resources
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Main.resources
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Properties.Resources.resources
+D:\工作\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.GenerateResource.Cache
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe.config
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\Interop.ACTMULTILib.dll
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.ResolveComReference.cache
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.exe
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.pdb
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.pdb
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.dll
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.dll
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.dll
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.dll
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.dll
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.dll
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.dll
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.pdb
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.pdb
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.pdb
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.pdb
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.pdb
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.pdb
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.pdb
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csprojResolveAssemblyReference.cache
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAlarm.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmArchersTest.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAutomationLog.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmEventLog.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmInterLock.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLeakTestLog.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLogin.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmManualPage.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPBTNew.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPCC.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRecipeNew.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRegister.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmSystem.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmTrayMaintain.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Main.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Properties.Resources.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.2.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.GenerateResource.Cache
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe.config
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\Interop.ACTMULTILib.dll
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.ResolveComReference.cache
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.exe
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.pdb
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.pdb
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.dll
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.dll
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.dll
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.dll
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.dll
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.dll
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.dll
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.pdb
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.pdb
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.pdb
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.pdb
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.pdb
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.pdb
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.pdb
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csprojResolveAssemblyReference.cache
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAlarm.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmArchersTest.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAutomationLog.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmEventLog.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmInterLock.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLeakTestLog.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLogin.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmManualPage.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPBTNew.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPCC.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRecipeNew.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRegister.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmSystem.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmTrayMaintain.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Main.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Properties.Resources.resources
+C:\Users\Ar\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe.config
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\Interop.ACTMULTILib.dll
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.exe
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.pdb
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.pdb
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.dll
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.dll
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.dll
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.dll
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.dll
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.dll
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.dll
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.pdb
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.pdb
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.pdb
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.pdb
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.pdb
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.pdb
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.pdb
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAlarm.resources
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmArchersTest.resources
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAutomationLog.resources
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmEventLog.resources
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmInterLock.resources
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLeakTestLog.resources
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLogin.resources
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmManualPage.resources
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPBTNew.resources
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPCC.resources
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRecipeNew.resources
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRegister.resources
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmSystem.resources
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmTrayMaintain.resources
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Main.resources
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Properties.Resources.resources
+C:\Users\Administrator\Desktop\RPD\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.GenerateResource.Cache
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe.config
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\Interop.ACTMULTILib.dll
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.ResolveComReference.cache
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.exe
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.pdb
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.pdb
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.dll
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.dll
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.dll
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.dll
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.dll
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.dll
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.dll
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.pdb
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.pdb
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.pdb
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.pdb
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.pdb
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.pdb
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.pdb
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\bin\x86\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAlarm.resources
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmArchersTest.resources
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAutomationLog.resources
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmEventLog.resources
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmInterLock.resources
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLeakTestLog.resources
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLogin.resources
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmManualPage.resources
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPBTNew.resources
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPCC.resources
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRecipeNew.resources
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRegister.resources
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmSystem.resources
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmTrayMaintain.resources
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Main.resources
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Properties.Resources.resources
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.GenerateResource.Cache
+E:\RPD1Gun\Projects RPD v1.0.3.1\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csprojResolveAssemblyReference.cache
+E:\RPD1Gun\Projects RPD v1.0.3.1 - 複製\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe.config
+E:\RPD1Gun\Projects RPD v1.0.3.1 - 複製\RPD_1GUN\RPD_1GUN\obj\x86\Debug\Interop.ACTMULTILib.dll
+E:\RPD1Gun\Projects RPD v1.0.3.1 - 複製\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.ResolveComReference.cache
+E:\RPD1Gun\Projects RPD v1.0.3.1 - 複製\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.exe
+E:\RPD1Gun\Projects RPD v1.0.3.1 - 複製\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.pdb
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe.config
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\Interop.ACTMULTILib.dll
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.ResolveComReference.cache
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.exe
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.pdb
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.dll
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.dll
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.dll
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.dll
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.dll
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.dll
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.dll
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.pdb
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.pdb
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.pdb
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.pdb
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.pdb
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.pdb
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.pdb
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csprojResolveAssemblyReference.cache
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAlarm.resources
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmArchersTest.resources
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAutomationLog.resources
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmEventLog.resources
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmInterLock.resources
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLeakTestLog.resources
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLogin.resources
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmManualPage.resources
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPBTNew.resources
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPCC.resources
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRecipeNew.resources
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRegister.resources
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmSystem.resources
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmTrayMaintain.resources
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Main.resources
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Properties.Resources.resources
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.GenerateResource.Cache
+C:\Project\1GUN\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.pdb
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe.config
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\Interop.ACTMULTILib.dll
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.ResolveComReference.cache
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.exe
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.pdb
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.pdb
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.dll
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.dll
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.dll
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.dll
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.dll
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.dll
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.dll
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.pdb
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.pdb
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.pdb
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.pdb
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.pdb
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.pdb
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.pdb
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csprojResolveAssemblyReference.cache
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAlarm.resources
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmArchersTest.resources
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAutomationLog.resources
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmEventLog.resources
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmInterLock.resources
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLeakTestLog.resources
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLogin.resources
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmManualPage.resources
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPBTNew.resources
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPCC.resources
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRecipeNew.resources
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRegister.resources
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmSystem.resources
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmTrayMaintain.resources
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Main.resources
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Properties.Resources.resources
+D:\RPD Data\Archers data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.GenerateResource.Cache
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe.config
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\Interop.ACTMULTILib.dll
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.ResolveComReference.cache
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.exe
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.pdb
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.pdb
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.dll
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.dll
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.dll
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.dll
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.dll
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.dll
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.dll
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.pdb
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.pdb
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.pdb
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.pdb
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.pdb
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.pdb
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.pdb
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\bin\x86\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csprojResolveAssemblyReference.cache
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAlarm.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmArchersTest.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAutomationLog.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmEventLog.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmInterLock.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLeakTestLog.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLogin.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmManualPage.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPBTNew.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPCC.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRecipeNew.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRegister.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmSystem.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmTrayMaintain.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Main.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Properties.Resources.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.GenerateResource.Cache
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe.config
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.exe
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\bin\x86\Debug\RPD_1GUN.pdb
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.dll
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.dll
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.dll
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\bin\x86\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.dll
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.dll
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.dll
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.dll
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\bin\x86\Debug\EF.pdb
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\bin\x86\Debug\LL.pdb
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\bin\x86\Debug\MFC.pdb
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC One.pdb
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\bin\x86\Debug\PCC Two.pdb
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\bin\x86\Debug\TR.pdb
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\bin\x86\Debug\UL.pdb
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\bin\x86\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\obj\x86\Debug\Interop.ACTMULTILib.dll
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.ResolveComReference.cache
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAlarm.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmArchersTest.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmAutomationLog.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmEventLog.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmHeater.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmInterLock.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLeakTestLog.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmLogin.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmManualPage.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPBTNew.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmPCC.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRecipeNew.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmRegister.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmSystem.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.frmTrayMaintain.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Main.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.Properties.Resources.resources
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.csproj.GenerateResource.Cache
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.exe
+D:\RPD Data\1GUN SourceCode\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\obj\x86\Debug\RPD_1GUN.pdb

@@ -1,0 +1,270 @@
+INSERT INTO PROCESSDATA_LOG([STR_DT]
+                                                                          ,[RGunArSet]
+                                                                          ,[ChamberO2Set]
+                                                                          ,[ChamberArSet]
+                                                                          ,[RGunArFlow]
+                                                                          ,[ChamberO2Flow]
+                                                                          ,[ChamberArFlow]
+                                                                          ,[TRGaugeValueC]
+                                                                          ,[RGunCurrentofHearthCoil]
+                                                                          ,[RGunCurrentofSteeringCoil]
+                                                                          ,[RGunCurrentofG2Coil]
+                                                                          ,[RGunVoltageofMainHearth]
+                                                                          ,[RGunVoltageofBeamGuide]
+                                                                          ,[RGunDischargeVoltage]
+                                                                          ,[RGunCurrentofMainHearth]
+                                                                          ,[RGunCurrentofBeamGuide]
+                                                                          ,[RGunMHPushUpLevel]
+                                                                          ,[RECIPE_NUMBER]
+                                                                          
+                                                                          ,[TRGaugeValuePH]
+                                                                          ,[TRAY_ID]) 
+                                                                           VALUES('2023-12-05 14:19:56'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,''
+                                                                                 ,'0'
+                                                                                 , '')
+2023-12-05 14:19:56
+System.Data.SqlClient.SqlException (0x80131904): 列名 'TRGaugeValueC' 无效。
+列名 'TRGaugeValuePH' 无效。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 RPD_1GUN.clsDBN.ExecuteSqlCommand(String SqlCommand) 位置 C:\Users\ATC\Desktop\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\clsDBN.cs:行号 78
+ClientConnectionId:fe4ebc19-70e8-48fd-809d-c5af89de7e60
+Error Number:207,State:1,Class:16
+INSERT INTO PROCESSDATA_LOG([STR_DT]
+                                                                          ,[RGunArSet]
+                                                                          ,[ChamberO2Set]
+                                                                          ,[ChamberArSet]
+                                                                          ,[RGunArFlow]
+                                                                          ,[ChamberO2Flow]
+                                                                          ,[ChamberArFlow]
+                                                                          ,[TRGaugeValueC]
+                                                                          ,[RGunCurrentofHearthCoil]
+                                                                          ,[RGunCurrentofSteeringCoil]
+                                                                          ,[RGunCurrentofG2Coil]
+                                                                          ,[RGunVoltageofMainHearth]
+                                                                          ,[RGunVoltageofBeamGuide]
+                                                                          ,[RGunDischargeVoltage]
+                                                                          ,[RGunCurrentofMainHearth]
+                                                                          ,[RGunCurrentofBeamGuide]
+                                                                          ,[RGunMHPushUpLevel]
+                                                                          ,[RECIPE_NUMBER]
+                                                                          
+                                                                          ,[TRGaugeValuePH]
+                                                                          ,[TRAY_ID]) 
+                                                                           VALUES('2023-12-05 14:19:57'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,''
+                                                                                 ,'0'
+                                                                                 , '')
+2023-12-05 14:19:57
+System.Data.SqlClient.SqlException (0x80131904): 列名 'TRGaugeValueC' 无效。
+列名 'TRGaugeValuePH' 无效。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 RPD_1GUN.clsDBN.ExecuteSqlCommand(String SqlCommand) 位置 C:\Users\ATC\Desktop\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\clsDBN.cs:行号 78
+ClientConnectionId:96141d40-2495-42d4-842a-2cfb3ab204c8
+Error Number:207,State:1,Class:16
+INSERT INTO PROCESSDATA_LOG([STR_DT]
+                                                                          ,[RGunArSet]
+                                                                          ,[ChamberO2Set]
+                                                                          ,[ChamberArSet]
+                                                                          ,[RGunArFlow]
+                                                                          ,[ChamberO2Flow]
+                                                                          ,[ChamberArFlow]
+                                                                          ,[TRGaugeValueC]
+                                                                          ,[RGunCurrentofHearthCoil]
+                                                                          ,[RGunCurrentofSteeringCoil]
+                                                                          ,[RGunCurrentofG2Coil]
+                                                                          ,[RGunVoltageofMainHearth]
+                                                                          ,[RGunVoltageofBeamGuide]
+                                                                          ,[RGunDischargeVoltage]
+                                                                          ,[RGunCurrentofMainHearth]
+                                                                          ,[RGunCurrentofBeamGuide]
+                                                                          ,[RGunMHPushUpLevel]
+                                                                          ,[RECIPE_NUMBER]
+                                                                          
+                                                                          ,[TRGaugeValuePH]
+                                                                          ,[TRAY_ID]) 
+                                                                           VALUES('2023-12-05 14:19:58'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,''
+                                                                                 ,'0'
+                                                                                 , '')
+2023-12-05 14:19:58
+System.Data.SqlClient.SqlException (0x80131904): 列名 'TRGaugeValueC' 无效。
+列名 'TRGaugeValuePH' 无效。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 RPD_1GUN.clsDBN.ExecuteSqlCommand(String SqlCommand) 位置 C:\Users\ATC\Desktop\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\clsDBN.cs:行号 78
+ClientConnectionId:563beda5-494a-4aaf-8efb-8ee061ac7602
+Error Number:207,State:1,Class:16
+INSERT INTO PROCESSDATA_LOG([STR_DT]
+                                                                          ,[RGunArSet]
+                                                                          ,[ChamberO2Set]
+                                                                          ,[ChamberArSet]
+                                                                          ,[RGunArFlow]
+                                                                          ,[ChamberO2Flow]
+                                                                          ,[ChamberArFlow]
+                                                                          ,[TRGaugeValueC]
+                                                                          ,[RGunCurrentofHearthCoil]
+                                                                          ,[RGunCurrentofSteeringCoil]
+                                                                          ,[RGunCurrentofG2Coil]
+                                                                          ,[RGunVoltageofMainHearth]
+                                                                          ,[RGunVoltageofBeamGuide]
+                                                                          ,[RGunDischargeVoltage]
+                                                                          ,[RGunCurrentofMainHearth]
+                                                                          ,[RGunCurrentofBeamGuide]
+                                                                          ,[RGunMHPushUpLevel]
+                                                                          ,[RECIPE_NUMBER]
+                                                                          
+                                                                          ,[TRGaugeValuePH]
+                                                                          ,[TRAY_ID]) 
+                                                                           VALUES('2023-12-05 14:19:59'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,''
+                                                                                 ,'0'
+                                                                                 , '')
+2023-12-05 14:19:59
+System.Data.SqlClient.SqlException (0x80131904): 列名 'TRGaugeValueC' 无效。
+列名 'TRGaugeValuePH' 无效。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 RPD_1GUN.clsDBN.ExecuteSqlCommand(String SqlCommand) 位置 C:\Users\ATC\Desktop\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\clsDBN.cs:行号 78
+ClientConnectionId:b6185d7e-9e36-4c80-bf52-679618d0e695
+Error Number:207,State:1,Class:16
+INSERT INTO PROCESSDATA_LOG([STR_DT]
+                                                                          ,[RGunArSet]
+                                                                          ,[ChamberO2Set]
+                                                                          ,[ChamberArSet]
+                                                                          ,[RGunArFlow]
+                                                                          ,[ChamberO2Flow]
+                                                                          ,[ChamberArFlow]
+                                                                          ,[TRGaugeValueC]
+                                                                          ,[RGunCurrentofHearthCoil]
+                                                                          ,[RGunCurrentofSteeringCoil]
+                                                                          ,[RGunCurrentofG2Coil]
+                                                                          ,[RGunVoltageofMainHearth]
+                                                                          ,[RGunVoltageofBeamGuide]
+                                                                          ,[RGunDischargeVoltage]
+                                                                          ,[RGunCurrentofMainHearth]
+                                                                          ,[RGunCurrentofBeamGuide]
+                                                                          ,[RGunMHPushUpLevel]
+                                                                          ,[RECIPE_NUMBER]
+                                                                          
+                                                                          ,[TRGaugeValuePH]
+                                                                          ,[TRAY_ID]) 
+                                                                           VALUES('2023-12-05 14:20:00'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,'0'
+                                                                                 ,''
+                                                                                 ,'0'
+                                                                                 , '')
+2023-12-05 14:20:00
+System.Data.SqlClient.SqlException (0x80131904): 列名 'TRGaugeValueC' 无效。
+列名 'TRGaugeValuePH' 无效。
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 RPD_1GUN.clsDBN.ExecuteSqlCommand(String SqlCommand) 位置 C:\Users\ATC\Desktop\Projects RPD v1.0.3.2 _20190421\RPD_1GUN\RPD_1GUN\clsDBN.cs:行号 78
+ClientConnectionId:df7489e5-42c2-45db-89df-2f2c2b7c28cd
+Error Number:207,State:1,Class:16

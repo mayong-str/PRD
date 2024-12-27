@@ -1,0 +1,237 @@
+[14:18:40.545] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:40.548] FunReadPLC 失敗[Addr:M16992,Length:125]
+[14:18:40.627] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:40.628] FunReadPLC 失敗[Addr:M18992,Length:125]
+[14:18:40.668] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:40.669] FunReadPLC 失敗[Addr:D38000,Length:2000]
+[14:18:40.884] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:40.884] FunReadPLC 失敗[Addr:M16992,Length:125]
+[14:18:40.898] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:40.898] FunReadPLC 失敗[Addr:M18992,Length:125]
+[14:18:40.914] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:40.915] FunReadPLC 失敗[Addr:D38000,Length:2000]
+[14:18:41.131] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:41.132] FunReadPLC 失敗[Addr:M16992,Length:125]
+[14:18:41.147] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:41.148] FunReadPLC 失敗[Addr:M18992,Length:125]
+[14:18:41.163] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:41.164] FunReadPLC 失敗[Addr:D38000,Length:2000]
+[14:18:41.380] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:41.380] FunReadPLC 失敗[Addr:M16992,Length:125]
+[14:18:41.394] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:41.395] FunReadPLC 失敗[Addr:M18992,Length:125]
+[14:18:41.411] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:41.412] FunReadPLC 失敗[Addr:D38000,Length:2000]
+[14:18:41.626] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:41.628] FunSingleWriPLC 失敗[D35000:1]
+[14:18:41.643] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:41.644] FunReadPLC 失敗[Addr:M16992,Length:125]
+[14:18:41.657] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:41.658] FunReadPLC 失敗[Addr:M18992,Length:125]
+[14:18:41.672] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:41.673] FunReadPLC 失敗[Addr:D38000,Length:2000]
+[14:18:41.889] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:41.890] FunReadPLC 失敗[Addr:M16992,Length:125]
+[14:18:41.901] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:41.902] FunReadPLC 失敗[Addr:M18992,Length:125]
+[14:18:41.916] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:41.916] FunReadPLC 失敗[Addr:D38000,Length:2000]
+[14:18:42.146] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:42.147] FunReadPLC 失敗[Addr:M16992,Length:125]
+[14:18:42.173] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:42.174] FunReadPLC 失敗[Addr:M18992,Length:125]
+[14:18:42.195] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:42.197] FunReadPLC 失敗[Addr:D38000,Length:2000]
+[14:18:42.427] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:42.428] FunReadPLC 失敗[Addr:M16992,Length:125]
+[14:18:42.447] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:42.448] FunReadPLC 失敗[Addr:M18992,Length:125]
+[14:18:42.464] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:42.464] FunReadPLC 失敗[Addr:D38000,Length:2000]
+[14:18:42.687] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:42.688] FunSingleWriPLC 失敗[D35000:2]
+[14:18:42.702] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:42.703] FunReadPLC 失敗[Addr:M16992,Length:125]
+[14:18:42.715] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:42.715] FunReadPLC 失敗[Addr:M18992,Length:125]
+[14:18:42.728] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:42.729] FunReadPLC 失敗[Addr:D38000,Length:2000]
+[14:18:42.954] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:42.956] FunReadPLC 失敗[Addr:M16992,Length:125]
+[14:18:42.977] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:42.978] FunReadPLC 失敗[Addr:M18992,Length:125]
+[14:18:42.993] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:42.993] FunReadPLC 失敗[Addr:D38000,Length:2000]
+[14:18:43.219] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:18:43.221] FunReadPLC 失敗[Addr:M16992,Length:125]
+[14:18:43.244] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:55.220] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:55.222] FunReadPLC 失敗[Addr:M16992,Length:125]
+[14:19:55.289] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:55.290] FunReadPLC 失敗[Addr:M18992,Length:125]
+[14:19:55.329] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:55.330] FunReadPLC 失敗[Addr:D38000,Length:2000]
+[14:19:55.560] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:55.561] FunReadPLC 失敗[Addr:M16992,Length:125]
+[14:19:55.580] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:55.581] FunReadPLC 失敗[Addr:M18992,Length:125]
+[14:19:55.594] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:55.595] FunReadPLC 失敗[Addr:D38000,Length:2000]
+[14:19:55.810] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:55.811] FunReadPLC 失敗[Addr:M16992,Length:125]
+[14:19:55.825] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:55.826] FunReadPLC 失敗[Addr:M18992,Length:125]
+[14:19:55.839] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:55.840] FunReadPLC 失敗[Addr:D38000,Length:2000]
+[14:19:56.071] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:56.073] FunReadPLC 失敗[Addr:M16992,Length:125]
+[14:19:56.094] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:56.094] FunReadPLC 失敗[Addr:M18992,Length:125]
+[14:19:56.113] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:56.114] FunReadPLC 失敗[Addr:D38000,Length:2000]
+[14:19:57.102] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:57.110] FunSingleWriPLC 失敗[D35000:1]
+[14:19:57.113] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:57.128] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:57.131] FunReadPLC 失敗[Addr:M16992,Length:125]
+[14:19:57.137] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:57.138] FunSingleReadPLC 失敗[Addr:M16000,iRetData:0]
+[14:19:57.138] ReadPLC_Bit 失敗[Addr:M16000,Value:0]
+[14:19:57.152] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:57.157] FunReadPLC 失敗[Addr:M18992,Length:125]
+[14:19:57.609] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:57.614] FunReadPLC 失敗[Addr:D38000,Length:2000]
+[14:19:57.621] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:57.779] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:57.906] FunSingleReadPLC 失敗[Addr:M16000,iRetData:0]
+[14:19:57.907] ReadPLC_Bit 失敗[Addr:M16000,Value:0]
+[14:19:57.923] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:57.924] FunReadPLC 失敗[Addr:M16992,Length:125]
+[14:19:58.151] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:58.153] FunReadPLC 失敗[Addr:M18992,Length:125]
+[14:19:58.162] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:58.266] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:58.270] FunReadPLC 失敗[Addr:D38000,Length:2000]
+[14:19:58.277] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:58.286] FunSingleReadPLC 失敗[Addr:D35400,iRetData:0]
+[14:19:58.287] ReadPLC_Bit 失敗[Addr:D35400,Value:0]
+[14:19:58.307] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:58.322] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:58.323] FunSingleReadPLC 失敗[Addr:D35401,iRetData:0]
+[14:19:58.323] ReadPLC_Bit 失敗[Addr:D35401,Value:0]
+[14:19:58.338] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:58.352] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:58.455] FunSingleReadPLC 失敗[Addr:D35402,iRetData:0]
+[14:19:58.455] ReadPLC_Bit 失敗[Addr:D35402,Value:0]
+[14:19:58.550] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:58.553] FunReadPLC 失敗[Addr:M16992,Length:125]
+[14:19:58.559] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:58.576] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:58.582] FunReadPLC 失敗[Addr:M18992,Length:125]
+[14:19:58.588] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:58.596] FunSingleReadPLC 失敗[Addr:M16000,iRetData:0]
+[14:19:58.598] ReadPLC_Bit 失敗[Addr:M16000,Value:0]
+[14:19:58.601] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:58.601] FunReadPLC 失敗[Addr:D38000,Length:2000]
+[14:19:58.988] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:58.990] FunReadPLC 失敗[Addr:M16992,Length:125]
+[14:19:58.996] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:59.011] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:59.020] FunReadPLC 失敗[Addr:M18992,Length:125]
+[14:19:59.024] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:59.032] FunSingleReadPLC 失敗[Addr:D35400,iRetData:0]
+[14:19:59.035] ReadPLC_Bit 失敗[Addr:D35400,Value:0]
+[14:19:59.039] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:59.040] FunReadPLC 失敗[Addr:D38000,Length:2000]
+[14:19:59.053] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:59.065] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:59.066] FunSingleReadPLC 失敗[Addr:M16000,iRetData:0]
+[14:19:59.066] ReadPLC_Bit 失敗[Addr:M16000,Value:0]
+[14:19:59.080] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:59.099] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:59.104] FunSingleReadPLC 失敗[Addr:D35401,iRetData:0]
+[14:19:59.104] ReadPLC_Bit 失敗[Addr:D35401,Value:0]
+[14:19:59.118] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:59.130] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:59.130] FunSingleReadPLC 失敗[Addr:D35402,iRetData:0]
+[14:19:59.131] ReadPLC_Bit 失敗[Addr:D35402,Value:0]
+[14:19:59.284] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:59.370] FunSingleWriPLC 失敗[D35000:2]
+[14:19:59.392] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:59.393] FunReadPLC 失敗[Addr:M16992,Length:125]
+[14:19:59.414] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:59.414] FunReadPLC 失敗[Addr:M18992,Length:125]
+[14:19:59.434] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:59.435] FunReadPLC 失敗[Addr:D38000,Length:2000]
+[14:19:59.489] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:59.509] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:59.514] FunSingleReadPLC 失敗[Addr:M16000,iRetData:0]
+[14:19:59.514] ReadPLC_Bit 失敗[Addr:M16000,Value:0]
+[14:19:59.794] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:59.795] FunReadPLC 失敗[Addr:M16992,Length:125]
+[14:19:59.817] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:59.818] FunReadPLC 失敗[Addr:M18992,Length:125]
+[14:19:59.835] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:59.836] FunReadPLC 失敗[Addr:D38000,Length:2000]
+[14:19:59.932] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:59.948] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:19:59.949] FunSingleReadPLC 失敗[Addr:M16000,iRetData:0]
+[14:19:59.949] ReadPLC_Bit 失敗[Addr:M16000,Value:0]
+[14:20:00.080] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:20:00.184] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:20:00.195] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:20:00.197] FunReadPLC 失敗[Addr:M16992,Length:125]
+[14:20:00.197] FunSingleReadPLC 失敗[Addr:D35400,iRetData:0]
+[14:20:00.197] ReadPLC_Bit 失敗[Addr:D35400,Value:0]
+[14:20:00.214] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:20:00.220] FunReadPLC 失敗[Addr:M18992,Length:125]
+[14:20:00.226] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:20:00.241] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:20:00.244] FunReadPLC 失敗[Addr:D38000,Length:2000]
+[14:20:00.250] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:20:00.250] FunSingleReadPLC 失敗[Addr:D35401,iRetData:0]
+[14:20:00.251] ReadPLC_Bit 失敗[Addr:D35401,Value:0]
+[14:20:00.264] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:20:00.279] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:20:00.279] FunSingleReadPLC 失敗[Addr:D35402,iRetData:0]
+[14:20:00.280] ReadPLC_Bit 失敗[Addr:D35402,Value:0]
+[14:20:00.378] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:20:00.593] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:20:00.599] FunReadPLC 失敗[Addr:M16992,Length:125]
+[14:20:00.609] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:20:00.620] FunSingleReadPLC 失敗[Addr:M16000,iRetData:0]
+[14:20:00.623] ReadPLC_Bit 失敗[Addr:M16000,Value:0]
+[14:20:00.626] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:20:00.627] FunReadPLC 失敗[Addr:M18992,Length:125]
+[14:20:00.641] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:20:00.641] FunReadPLC 失敗[Addr:D38000,Length:2000]
+[14:20:00.999] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:20:01.002] FunSingleWriPLC 失敗[D35000:3]
+[14:20:01.007] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:20:01.021] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:20:01.024] FunReadPLC 失敗[Addr:M16992,Length:125]
+[14:20:01.030] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:20:01.037] FunSingleReadPLC 失敗[Addr:D35400,iRetData:0]
+[14:20:01.040] ReadPLC_Bit 失敗[Addr:D35400,Value:0]
+[14:20:01.043] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:20:01.043] FunReadPLC 失敗[Addr:M18992,Length:125]
+[14:20:01.057] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:20:01.069] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:20:01.083] FunReadPLC 失敗[Addr:D38000,Length:2000]
+[14:20:01.083] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:20:01.084] FunSingleReadPLC 失敗[Addr:D35401,iRetData:0]
+[14:20:01.085] ReadPLC_Bit 失敗[Addr:D35401,Value:0]
+[14:20:01.097] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:20:01.111] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:20:01.112] FunSingleReadPLC 失敗[Addr:M16000,iRetData:0]
+[14:20:01.113] ReadPLC_Bit 失敗[Addr:M16000,Value:0]
+[14:20:01.127] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:20:01.151] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:20:01.155] FunSingleReadPLC 失敗[Addr:D35402,iRetData:0]
+[14:20:01.155] ReadPLC_Bit 失敗[Addr:D35402,Value:0]
+[14:20:01.388] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:20:01.389] FunReadPLC 失敗[Addr:M16992,Length:125]
+[14:20:01.401] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:20:01.402] FunReadPLC 失敗[Addr:M18992,Length:125]
+[14:20:01.415] 開啟 PLC 連線失敗請檢查 MX component Logical Station Number
+[14:20:01.416] FunReadPLC 失敗[Addr:D38000,Length:2000]

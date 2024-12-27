@@ -1,0 +1,75 @@
+D:\Projects\LL\LL\bin\Debug\LL.dll
+D:\Projects\LL\LL\bin\Debug\LL.pdb
+D:\Projects\LL\LL\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Projects\LL\LL\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\Projects\LL\LL\obj\Debug\LL.LL.resources
+D:\Projects\LL\LL\obj\Debug\LL.csproj.GenerateResource.Cache
+D:\Projects\LL\LL\obj\Debug\LL.dll
+D:\Projects\LL\LL\obj\Debug\LL.pdb
+D:\Projects\LL\LL\bin\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+D:\Projects\LL\LL\obj\Debug\LL.csprojResolveAssemblyReference.cache
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\LL\LL\bin\Debug\LL.dll
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\LL\LL\bin\Debug\LL.pdb
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\LL\LL\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\LL\LL\bin\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\LL\LL\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\LL\LL\obj\Debug\LL.csprojResolveAssemblyReference.cache
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\LL\LL\obj\Debug\LL.LL.resources
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\LL\LL\obj\Debug\LL.csproj.GenerateResource.Cache
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\LL\LL\obj\Debug\LL.dll
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\LL\LL\obj\Debug\LL.pdb
+C:\Users\Ar\Desktop\Projects RPD -test - 複製\LL\LL\obj\Debug\LL.Properties.Resources.resources
+D:\工作\RPD\Projects RPD v1.0.0.1\LL\LL\bin\Debug\LL.dll
+D:\工作\RPD\Projects RPD v1.0.0.1\LL\LL\bin\Debug\LL.pdb
+D:\工作\RPD\Projects RPD v1.0.0.1\LL\LL\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\工作\RPD\Projects RPD v1.0.0.1\LL\LL\bin\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+D:\工作\RPD\Projects RPD v1.0.0.1\LL\LL\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\工作\RPD\Projects RPD v1.0.0.1\LL\LL\obj\Debug\LL.csprojResolveAssemblyReference.cache
+D:\工作\RPD\Projects RPD v1.0.0.1\LL\LL\obj\Debug\LL.LL.resources
+D:\工作\RPD\Projects RPD v1.0.0.1\LL\LL\obj\Debug\LL.Properties.Resources.resources
+D:\工作\RPD\Projects RPD v1.0.0.1\LL\LL\obj\Debug\LL.csproj.GenerateResource.Cache
+D:\工作\RPD\Projects RPD v1.0.0.1\LL\LL\obj\Debug\LL.dll
+D:\工作\RPD\Projects RPD v1.0.0.1\LL\LL\obj\Debug\LL.pdb
+E:\RPD\Projects RPD v1.0.0.3\LL\LL\bin\Debug\LL.dll
+E:\RPD\Projects RPD v1.0.0.3\LL\LL\bin\Debug\LL.pdb
+E:\RPD\Projects RPD v1.0.0.3\LL\LL\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.3\LL\LL\bin\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.3\LL\LL\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+E:\RPD\Projects RPD v1.0.0.3\LL\LL\obj\Debug\LL.csprojResolveAssemblyReference.cache
+E:\RPD\Projects RPD v1.0.0.3\LL\LL\obj\Debug\LL.LL.resources
+E:\RPD\Projects RPD v1.0.0.3\LL\LL\obj\Debug\LL.Properties.Resources.resources
+E:\RPD\Projects RPD v1.0.0.3\LL\LL\obj\Debug\LL.csproj.GenerateResource.Cache
+E:\RPD\Projects RPD v1.0.0.3\LL\LL\obj\Debug\LL.dll
+E:\RPD\Projects RPD v1.0.0.3\LL\LL\obj\Debug\LL.pdb
+E:\RPD\Projects RPD v1.0.0.4\LL\LL\bin\Debug\LL.dll
+E:\RPD\Projects RPD v1.0.0.4\LL\LL\bin\Debug\LL.pdb
+E:\RPD\Projects RPD v1.0.0.4\LL\LL\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.4\LL\LL\bin\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.4\LL\LL\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+E:\RPD\Projects RPD v1.0.0.4\LL\LL\obj\Debug\LL.csprojResolveAssemblyReference.cache
+E:\RPD\Projects RPD v1.0.0.4\LL\LL\obj\Debug\LL.LL.resources
+E:\RPD\Projects RPD v1.0.0.4\LL\LL\obj\Debug\LL.Properties.Resources.resources
+E:\RPD\Projects RPD v1.0.0.4\LL\LL\obj\Debug\LL.csproj.GenerateResource.Cache
+E:\RPD\Projects RPD v1.0.0.4\LL\LL\obj\Debug\LL.dll
+E:\RPD\Projects RPD v1.0.0.4\LL\LL\obj\Debug\LL.pdb
+E:\RPD\Projects RPD v1.0.0.5\LL\LL\bin\Debug\LL.dll
+E:\RPD\Projects RPD v1.0.0.5\LL\LL\bin\Debug\LL.pdb
+E:\RPD\Projects RPD v1.0.0.5\LL\LL\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.5\LL\LL\bin\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+E:\RPD\Projects RPD v1.0.0.5\LL\LL\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+E:\RPD\Projects RPD v1.0.0.5\LL\LL\obj\Debug\LL.csprojResolveAssemblyReference.cache
+E:\RPD\Projects RPD v1.0.0.5\LL\LL\obj\Debug\LL.LL.resources
+E:\RPD\Projects RPD v1.0.0.5\LL\LL\obj\Debug\LL.Properties.Resources.resources
+E:\RPD\Projects RPD v1.0.0.5\LL\LL\obj\Debug\LL.csproj.GenerateResource.Cache
+E:\RPD\Projects RPD v1.0.0.5\LL\LL\obj\Debug\LL.dll
+E:\RPD\Projects RPD v1.0.0.5\LL\LL\obj\Debug\LL.pdb
+D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\LL\LL\bin\Debug\LL.dll
+D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\LL\LL\bin\Debug\LL.pdb
+D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\LL\LL\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\LL\LL\bin\Debug\Microsoft.VisualCSharp.PowerPacks.dll
+D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\LL\LL\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.resources.dll
+D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\LL\LL\obj\Debug\LL.LL.resources
+D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\LL\LL\obj\Debug\LL.Properties.Resources.resources
+D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\LL\LL\obj\Debug\LL.csproj.GenerateResource.Cache
+D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\LL\LL\obj\Debug\LL.dll
+D:\DYProjects\RPD0515\RPD(1)\RPD\Projects RPD v1.0.3.2 _20190421\LL\LL\obj\Debug\LL.pdb
